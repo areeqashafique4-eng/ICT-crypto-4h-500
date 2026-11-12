@@ -6,7 +6,7 @@
    "markets": 28,
    "rank": 1,
    "symbol": "BTC",
-   "volume_usd": 56799216716.79261
+   "volume_usd": 65706478731.05386
   },
   {
    "crypto_id": 1027,
@@ -14,7 +14,7 @@
    "markets": 35,
    "rank": 2,
    "symbol": "ETH",
-   "volume_usd": 47751626414.992
+   "volume_usd": 57879426620.84768
   },
   {
    "crypto_id": 39964,
@@ -22,39 +22,39 @@
    "markets": 26,
    "rank": 3,
    "symbol": "SOXL",
-   "volume_usd": 23703163564.494854
-  },
-  {
-   "crypto_id": 40551,
-   "exchanges": 21,
-   "markets": 22,
-   "rank": 4,
-   "symbol": "KORU",
-   "volume_usd": 16076467739.186167
+   "volume_usd": 23709675799.587845
   },
   {
    "crypto_id": 1437,
    "exchanges": 20,
    "markets": 25,
-   "rank": 5,
+   "rank": 4,
    "symbol": "ZEC",
-   "volume_usd": 15251024881.146294
+   "volume_usd": 15168545428.202827
   },
   {
-   "crypto_id": 39507,
-   "exchanges": 24,
-   "markets": 26,
-   "rank": 6,
-   "symbol": "SNDK",
-   "volume_usd": 12885668730.023537
+   "crypto_id": 40551,
+   "exchanges": 21,
+   "markets": 22,
+   "rank": 5,
+   "symbol": "KORU",
+   "volume_usd": 15010629061.450603
   },
   {
    "crypto_id": 38153,
    "exchanges": 22,
    "markets": 23,
-   "rank": 7,
+   "rank": 6,
    "symbol": "NVDA",
-   "volume_usd": 11337574501.387686
+   "volume_usd": 13067146334.007124
+  },
+  {
+   "crypto_id": 39507,
+   "exchanges": 24,
+   "markets": 26,
+   "rank": 7,
+   "symbol": "SNDK",
+   "volume_usd": 12980650614.631495
   },
   {
    "crypto_id": 5426,
@@ -62,7 +62,7 @@
    "markets": 34,
    "rank": 8,
    "symbol": "SOL",
-   "volume_usd": 11048435498.883026
+   "volume_usd": 12060140616.934227
   },
   {
    "crypto_id": 39469,
@@ -70,23 +70,23 @@
    "markets": 23,
    "rank": 9,
    "symbol": "MU",
-   "volume_usd": 5365154533.189728
-  },
-  {
-   "crypto_id": 40862,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 10,
-   "symbol": "SOXS",
-   "volume_usd": 4611681340.130585
+   "volume_usd": 5302655948.724157
   },
   {
    "crypto_id": 52,
    "exchanges": 21,
    "markets": 33,
-   "rank": 11,
+   "rank": 10,
    "symbol": "XRP",
-   "volume_usd": 4609656014.892562
+   "volume_usd": 5244831220.900191
+  },
+  {
+   "crypto_id": 40862,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 11,
+   "symbol": "SOXS",
+   "volume_usd": 4843607955.43713
   },
   {
    "crypto_id": 39487,
@@ -94,7 +94,7 @@
    "markets": 23,
    "rank": 12,
    "symbol": "CL",
-   "volume_usd": 3696012362.8960495
+   "volume_usd": 3988173822.7314076
   },
   {
    "crypto_id": 32196,
@@ -102,23 +102,23 @@
    "markets": 34,
    "rank": 13,
    "symbol": "HYPE",
-   "volume_usd": 3679944511.1586723
-  },
-  {
-   "crypto_id": 39501,
-   "exchanges": 23,
-   "markets": 27,
-   "rank": 14,
-   "symbol": "SPCX",
-   "volume_usd": 3669445398.261836
+   "volume_usd": 3916067016.1455674
   },
   {
    "crypto_id": 37003,
    "exchanges": 1,
    "markets": 2,
-   "rank": 15,
+   "rank": 14,
    "symbol": "MSTRX",
-   "volume_usd": 3651040123.392043
+   "volume_usd": 3732965066.716609
+  },
+  {
+   "crypto_id": 39501,
+   "exchanges": 23,
+   "markets": 27,
+   "rank": 15,
+   "symbol": "SPCX",
+   "volume_usd": 3346979411.043735
   },
   {
    "crypto_id": 40824,
@@ -126,31 +126,31 @@
    "markets": 22,
    "rank": 16,
    "symbol": "SKHY",
-   "volume_usd": 3072212211.314822
-  },
-  {
-   "crypto_id": 6535,
-   "exchanges": 23,
-   "markets": 30,
-   "rank": 17,
-   "symbol": "NEAR",
-   "volume_usd": 2673387883.888551
-  },
-  {
-   "crypto_id": 39472,
-   "exchanges": 22,
-   "markets": 23,
-   "rank": 18,
-   "symbol": "INTC",
-   "volume_usd": 2604953621.422867
+   "volume_usd": 3019984630.9161396
   },
   {
    "crypto_id": 40826,
    "exchanges": 21,
    "markets": 21,
-   "rank": 19,
+   "rank": 17,
    "symbol": "SNXX",
-   "volume_usd": 2566951140.504547
+   "volume_usd": 2640983810.868991
+  },
+  {
+   "crypto_id": 6535,
+   "exchanges": 23,
+   "markets": 30,
+   "rank": 18,
+   "symbol": "NEAR",
+   "volume_usd": 2474861002.617561
+  },
+  {
+   "crypto_id": 39472,
+   "exchanges": 22,
+   "markets": 23,
+   "rank": 19,
+   "symbol": "INTC",
+   "volume_usd": 2408851742.624073
   },
   {
    "crypto_id": 39500,
@@ -158,63 +158,63 @@
    "markets": 9,
    "rank": 20,
    "symbol": "000660",
-   "volume_usd": 2390783144.9356346
-  },
-  {
-   "crypto_id": 39804,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 21,
-   "symbol": "BZ",
-   "volume_usd": 2086468920.7740297
-  },
-  {
-   "crypto_id": 37057,
-   "exchanges": 2,
-   "markets": 4,
-   "rank": 22,
-   "symbol": "QQQX",
-   "volume_usd": 1957100133.36597
-  },
-  {
-   "crypto_id": 39517,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 23,
-   "symbol": "QQQ",
-   "volume_usd": 1875638646.1068168
+   "volume_usd": 2406775229.421649
   },
   {
    "crypto_id": 74,
    "exchanges": 18,
    "markets": 30,
-   "rank": 24,
+   "rank": 21,
    "symbol": "DOGE",
-   "volume_usd": 1870742132.1574402
-  },
-  {
-   "crypto_id": 33543,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 25,
-   "symbol": "LUNA",
-   "volume_usd": 1592038445.826429
-  },
-  {
-   "crypto_id": 33120,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 26,
-   "symbol": "INIT",
-   "volume_usd": 1574876599.7329354
+   "volume_usd": 2296462195.255521
   },
   {
    "crypto_id": 40021,
    "exchanges": 20,
    "markets": 20,
-   "rank": 27,
+   "rank": 22,
    "symbol": "NBIS",
-   "volume_usd": 1459478566.1264474
+   "volume_usd": 2215400483.108767
+  },
+  {
+   "crypto_id": 39804,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 23,
+   "symbol": "BZ",
+   "volume_usd": 2177833209.6898346
+  },
+  {
+   "crypto_id": 37057,
+   "exchanges": 2,
+   "markets": 4,
+   "rank": 24,
+   "symbol": "QQQX",
+   "volume_usd": 2043441229.614641
+  },
+  {
+   "crypto_id": 39517,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 25,
+   "symbol": "QQQ",
+   "volume_usd": 2019107669.9790473
+  },
+  {
+   "crypto_id": 1839,
+   "exchanges": 19,
+   "markets": 24,
+   "rank": 26,
+   "symbol": "BNB",
+   "volume_usd": 1778720886.023693
+  },
+  {
+   "crypto_id": 33543,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 27,
+   "symbol": "LUNA",
+   "volume_usd": 1592180049.5071738
   },
   {
    "crypto_id": 39470,
@@ -222,415 +222,415 @@
    "markets": 21,
    "rank": 28,
    "symbol": "GOOGL",
-   "volume_usd": 1426996032.13005
-  },
-  {
-   "crypto_id": 1839,
-   "exchanges": 19,
-   "markets": 24,
-   "rank": 29,
-   "symbol": "BNB",
-   "volume_usd": 1382403659.723755
-  },
-  {
-   "crypto_id": 36195,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 30,
-   "symbol": "AGT",
-   "volume_usd": 1376901869.9651685
+   "volume_usd": 1553432703.365833
   },
   {
    "crypto_id": 24478,
    "exchanges": 12,
    "markets": 16,
-   "rank": 31,
+   "rank": 29,
    "symbol": "PEPE",
-   "volume_usd": 1365017183.5213935
+   "volume_usd": 1326490803.5177407
+  },
+  {
+   "crypto_id": 33120,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 30,
+   "symbol": "INIT",
+   "volume_usd": 1320642076.9054997
   },
   {
    "crypto_id": 39473,
    "exchanges": 19,
    "markets": 19,
-   "rank": 32,
+   "rank": 31,
    "symbol": "MSTR",
-   "volume_usd": 1227787044.5856674
+   "volume_usd": 1303228338.11202
   },
   {
    "crypto_id": 7083,
    "exchanges": 20,
    "markets": 28,
-   "rank": 33,
+   "rank": 32,
    "symbol": "UNI",
-   "volume_usd": 1203727896.2064044
+   "volume_usd": 1285892677.7105486
   },
   {
-   "crypto_id": 38152,
-   "exchanges": 22,
-   "markets": 23,
-   "rank": 34,
-   "symbol": "TSLA",
-   "volume_usd": 954951906.8177745
+   "crypto_id": 36195,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 33,
+   "symbol": "AGT",
+   "volume_usd": 1178504463.4235647
   },
   {
    "crypto_id": 1975,
    "exchanges": 21,
    "markets": 33,
-   "rank": 35,
+   "rank": 34,
    "symbol": "LINK",
-   "volume_usd": 928841817.9686214
+   "volume_usd": 1056539953.0422355
   },
   {
-   "crypto_id": 38909,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 36,
-   "symbol": "JCT",
-   "volume_usd": 852743873.4619453
-  },
-  {
-   "crypto_id": 30171,
-   "exchanges": 23,
-   "markets": 29,
-   "rank": 37,
-   "symbol": "ENA",
-   "volume_usd": 835333859.2618743
+   "crypto_id": 38152,
+   "exchanges": 22,
+   "markets": 23,
+   "rank": 35,
+   "symbol": "TSLA",
+   "volume_usd": 1043785696.6532559
   },
   {
    "crypto_id": 20947,
    "exchanges": 21,
    "markets": 36,
-   "rank": 38,
+   "rank": 36,
    "symbol": "SUI",
-   "volume_usd": 830038613.0089834
+   "volume_usd": 969203731.5993975
   },
   {
    "crypto_id": 2010,
    "exchanges": 20,
    "markets": 33,
-   "rank": 39,
+   "rank": 37,
    "symbol": "ADA",
-   "volume_usd": 828993706.0164577
+   "volume_usd": 943326549.6047231
+  },
+  {
+   "crypto_id": 30171,
+   "exchanges": 23,
+   "markets": 29,
+   "rank": 38,
+   "symbol": "ENA",
+   "volume_usd": 933297532.7536967
   },
   {
    "crypto_id": 40675,
    "exchanges": 19,
    "markets": 19,
-   "rank": 40,
+   "rank": 39,
    "symbol": "MUU",
-   "volume_usd": 826834970.9218903
+   "volume_usd": 844279833.1100469
   },
   {
    "crypto_id": 39945,
    "exchanges": 21,
    "markets": 21,
-   "rank": 41,
+   "rank": 40,
    "symbol": "DRAM",
-   "volume_usd": 752741577.4952297
-  },
-  {
-   "crypto_id": 39497,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 42,
-   "symbol": "CRWV",
-   "volume_usd": 747503968.2403915
-  },
-  {
-   "crypto_id": 38102,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 43,
-   "symbol": "ARIA",
-   "volume_usd": 723488816.1480976
+   "volume_usd": 780222070.3293765
   },
   {
    "crypto_id": 40560,
    "exchanges": 15,
    "markets": 15,
-   "rank": 44,
+   "rank": 41,
    "symbol": "TQQQ",
-   "volume_usd": 719617952.0757016
-  },
-  {
-   "crypto_id": 38154,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 45,
-   "symbol": "CRCL",
-   "volume_usd": 678956061.4649651
-  },
-  {
-   "crypto_id": 39491,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 46,
-   "symbol": "AAPL",
-   "volume_usd": 648578756.7794085
-  },
-  {
-   "crypto_id": 39732,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 47,
-   "symbol": "SPY",
-   "volume_usd": 637139347.2337172
-  },
-  {
-   "crypto_id": 5805,
-   "exchanges": 20,
-   "markets": 28,
-   "rank": 48,
-   "symbol": "AVAX",
-   "volume_usd": 624789173.4715737
-  },
-  {
-   "crypto_id": 38554,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 49,
-   "symbol": "KGEN",
-   "volume_usd": 608186696.5472806
+   "volume_usd": 779597731.0855783
   },
   {
    "crypto_id": 5176,
    "exchanges": 18,
    "markets": 20,
-   "rank": 50,
+   "rank": 42,
    "symbol": "XAUT",
-   "volume_usd": 587198746.432603
+   "volume_usd": 753241319.2051022
   },
   {
-   "crypto_id": 39944,
+   "crypto_id": 39497,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 43,
+   "symbol": "CRWV",
+   "volume_usd": 737049139.4696109
+  },
+  {
+   "crypto_id": 39491,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 44,
+   "symbol": "AAPL",
+   "volume_usd": 735718554.1592036
+  },
+  {
+   "crypto_id": 39732,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 45,
+   "symbol": "SPY",
+   "volume_usd": 721165147.3746263
+  },
+  {
+   "crypto_id": 38554,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 46,
+   "symbol": "KGEN",
+   "volume_usd": 710355085.9780018
+  },
+  {
+   "crypto_id": 38909,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 47,
+   "symbol": "JCT",
+   "volume_usd": 706311872.0656339
+  },
+  {
+   "crypto_id": 38154,
    "exchanges": 21,
    "markets": 21,
-   "rank": 51,
-   "symbol": "LITE",
-   "volume_usd": 538762399.867853
+   "rank": 48,
+   "symbol": "CRCL",
+   "volume_usd": 695845725.9920398
+  },
+  {
+   "crypto_id": 5805,
+   "exchanges": 20,
+   "markets": 28,
+   "rank": 49,
+   "symbol": "AVAX",
+   "volume_usd": 651738226.2112229
   },
   {
    "crypto_id": 22974,
    "exchanges": 23,
    "markets": 25,
-   "rank": 52,
+   "rank": 50,
    "symbol": "TAO",
-   "volume_usd": 532858894.73326886
-  },
-  {
-   "crypto_id": 39946,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 53,
-   "symbol": "MRVL",
-   "volume_usd": 516791274.15158224
+   "volume_usd": 629676912.245073
   },
   {
    "crypto_id": 36775,
    "exchanges": 12,
    "markets": 12,
-   "rank": 54,
+   "rank": 51,
    "symbol": "IDOL",
-   "volume_usd": 506228930.2808908
+   "volume_usd": 622758515.2155359
   },
   {
    "crypto_id": 7278,
    "exchanges": 21,
    "markets": 28,
-   "rank": 55,
+   "rank": 52,
    "symbol": "AAVE",
-   "volume_usd": 471433519.8536598
+   "volume_usd": 596865128.0517423
   },
   {
    "crypto_id": 36992,
    "exchanges": 2,
    "markets": 2,
-   "rank": 56,
+   "rank": 53,
    "symbol": "NVDAX",
-   "volume_usd": 463657942.88405836
+   "volume_usd": 572011845.1453936
+  },
+  {
+   "crypto_id": 39944,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 54,
+   "symbol": "LITE",
+   "volume_usd": 537681444.1776092
   },
   {
    "crypto_id": 13502,
    "exchanges": 20,
    "markets": 22,
-   "rank": 57,
+   "rank": 55,
    "symbol": "WLD",
-   "volume_usd": 445910986.0216795
+   "volume_usd": 513150304.28860396
   },
   {
-   "crypto_id": 7226,
-   "exchanges": 19,
+   "crypto_id": 39946,
+   "exchanges": 20,
    "markets": 20,
-   "rank": 58,
-   "symbol": "INJ",
-   "volume_usd": 439190020.5695487
-  },
-  {
-   "crypto_id": 36645,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 59,
-   "symbol": "XPL",
-   "volume_usd": 429286653.7916526
-  },
-  {
-   "crypto_id": 39468,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 60,
-   "symbol": "IXIC",
-   "volume_usd": 429177733.17690825
+   "rank": 56,
+   "symbol": "MRVL",
+   "volume_usd": 505103344.3924214
   },
   {
    "crypto_id": 36507,
    "exchanges": 17,
    "markets": 19,
-   "rank": 61,
+   "rank": 57,
    "symbol": "PUMP",
-   "volume_usd": 423817331.359651
+   "volume_usd": 444774379.4459891
   },
   {
-   "crypto_id": 39654,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 62,
-   "symbol": "EWY",
-   "volume_usd": 405360168.22823036
-  },
-  {
-   "crypto_id": 3155,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 63,
-   "symbol": "QNT",
-   "volume_usd": 398274694.15093595
+   "crypto_id": 39468,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 58,
+   "symbol": "IXIC",
+   "volume_usd": 441488812.2961328
   },
   {
    "crypto_id": 39464,
    "exchanges": 14,
    "markets": 14,
-   "rank": 64,
+   "rank": 59,
    "symbol": "NATGAS",
-   "volume_usd": 391365519.12245476
+   "volume_usd": 426341915.6137739
   },
   {
-   "crypto_id": 39513,
-   "exchanges": 18,
-   "markets": 19,
-   "rank": 65,
-   "symbol": "META",
-   "volume_usd": 384965325.7504779
-  },
-  {
-   "crypto_id": 39496,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 66,
-   "symbol": "ANTHROPIC",
-   "volume_usd": 376870697.99395144
-  },
-  {
-   "crypto_id": 37374,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 67,
-   "symbol": "ERA",
-   "volume_usd": 368906441.59469265
+   "crypto_id": 7226,
+   "exchanges": 19,
+   "markets": 20,
+   "rank": 60,
+   "symbol": "INJ",
+   "volume_usd": 425949112.6457392
   },
   {
    "crypto_id": 4705,
    "exchanges": 18,
    "markets": 19,
-   "rank": 68,
+   "rank": 61,
    "symbol": "PAXG",
-   "volume_usd": 367153983.6599797
+   "volume_usd": 418694393.21740174
+  },
+  {
+   "crypto_id": 36645,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 62,
+   "symbol": "XPL",
+   "volume_usd": 417686353.72269285
+  },
+  {
+   "crypto_id": 37374,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 63,
+   "symbol": "ERA",
+   "volume_usd": 415271069.9689793
+  },
+  {
+   "crypto_id": 39654,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 64,
+   "symbol": "EWY",
+   "volume_usd": 411265774.18608016
+  },
+  {
+   "crypto_id": 38102,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 65,
+   "symbol": "ARIA",
+   "volume_usd": 404227220.75203216
+  },
+  {
+   "crypto_id": 3155,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 66,
+   "symbol": "QNT",
+   "volume_usd": 401453808.4711381
+  },
+  {
+   "crypto_id": 39513,
+   "exchanges": 18,
+   "markets": 19,
+   "rank": 67,
+   "symbol": "META",
+   "volume_usd": 393250265.084836
   },
   {
    "crypto_id": 39474,
    "exchanges": 3,
    "markets": 6,
-   "rank": 69,
+   "rank": 68,
    "symbol": "S&P500",
-   "volume_usd": 358185283.71067464
-  },
-  {
-   "crypto_id": 40974,
-   "exchanges": 19,
-   "markets": 20,
-   "rank": 70,
-   "symbol": "UNITREE",
-   "volume_usd": 319750525.7540415
-  },
-  {
-   "crypto_id": 35336,
-   "exchanges": 24,
-   "markets": 27,
-   "rank": 71,
-   "symbol": "TRUMP",
-   "volume_usd": 318370453.0953095
-  },
-  {
-   "crypto_id": 512,
-   "exchanges": 19,
-   "markets": 24,
-   "rank": 72,
-   "symbol": "XLM",
-   "volume_usd": 317642018.9098287
-  },
-  {
-   "crypto_id": 40064,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 73,
-   "symbol": "BE",
-   "volume_usd": 311494520.3266789
+   "volume_usd": 372182063.8234524
   },
   {
    "crypto_id": 2,
    "exchanges": 19,
    "markets": 27,
-   "rank": 74,
+   "rank": 69,
    "symbol": "LTC",
-   "volume_usd": 308309778.17692703
+   "volume_usd": 361190130.9020813
   },
   {
    "crypto_id": 38127,
    "exchanges": 18,
    "markets": 18,
-   "rank": 75,
+   "rank": 70,
    "symbol": "AKE",
-   "volume_usd": 307588406.0988692
-  },
-  {
-   "crypto_id": 1831,
-   "exchanges": 21,
-   "markets": 28,
-   "rank": 76,
-   "symbol": "BCH",
-   "volume_usd": 300963224.5469128
+   "volume_usd": 360525344.3301724
   },
   {
    "crypto_id": 39478,
    "exchanges": 18,
    "markets": 19,
-   "rank": 77,
+   "rank": 71,
    "symbol": "HOOD",
-   "volume_usd": 295468800.5346252
+   "volume_usd": 346481956.32309014
+  },
+  {
+   "crypto_id": 35336,
+   "exchanges": 24,
+   "markets": 27,
+   "rank": 72,
+   "symbol": "TRUMP",
+   "volume_usd": 331893819.7749778
+  },
+  {
+   "crypto_id": 1831,
+   "exchanges": 21,
+   "markets": 28,
+   "rank": 73,
+   "symbol": "BCH",
+   "volume_usd": 324900218.88283634
+  },
+  {
+   "crypto_id": 40561,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 74,
+   "symbol": "SQQQ",
+   "volume_usd": 323644298.0197259
+  },
+  {
+   "crypto_id": 40064,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 75,
+   "symbol": "BE",
+   "volume_usd": 320960647.41043913
   },
   {
    "crypto_id": 38014,
    "exchanges": 1,
    "markets": 3,
-   "rank": 78,
+   "rank": 76,
    "symbol": "MUON",
-   "volume_usd": 291681449.5888995
+   "volume_usd": 318121182.07910687
+  },
+  {
+   "crypto_id": 39496,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 77,
+   "symbol": "ANTHROPIC",
+   "volume_usd": 311337440.3761277
   },
   {
    "crypto_id": 21159,
    "exchanges": 23,
    "markets": 26,
-   "rank": 79,
+   "rank": 78,
    "symbol": "ONDO",
-   "volume_usd": 290264094.3752322
+   "volume_usd": 307458967.5837855
+  },
+  {
+   "crypto_id": 40974,
+   "exchanges": 19,
+   "markets": 20,
+   "rank": 79,
+   "symbol": "UNITREE",
+   "volume_usd": 305519368.6211468
   },
   {
    "crypto_id": 40067,
@@ -638,23 +638,23 @@
    "markets": 20,
    "rank": 80,
    "symbol": "AAOI",
-   "volume_usd": 288955292.90510285
-  },
-  {
-   "crypto_id": 40559,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 81,
-   "symbol": "MVLL",
-   "volume_usd": 288934987.3166139
+   "volume_usd": 304149486.1925495
   },
   {
    "crypto_id": 39503,
    "exchanges": 5,
    "markets": 5,
-   "rank": 82,
+   "rank": 81,
    "symbol": "005930",
-   "volume_usd": 285960499.27915233
+   "volume_usd": 299217528.5018205
+  },
+  {
+   "crypto_id": 512,
+   "exchanges": 19,
+   "markets": 24,
+   "rank": 82,
+   "symbol": "XLM",
+   "volume_usd": 296876428.54865384
   },
   {
    "crypto_id": 39700,
@@ -662,135 +662,135 @@
    "markets": 2,
    "rank": 83,
    "symbol": "BMNRX",
-   "volume_usd": 285176874.3175103
-  },
-  {
-   "crypto_id": 11419,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 84,
-   "symbol": "GRAM",
-   "volume_usd": 280159694.6667122
-  },
-  {
-   "crypto_id": 41778,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 85,
-   "symbol": "ZHONGJI",
-   "volume_usd": 274964129.87281966
+   "volume_usd": 294321686.75587326
   },
   {
    "crypto_id": 39125,
    "exchanges": 20,
    "markets": 21,
-   "rank": 86,
+   "rank": 84,
    "symbol": "LIT",
-   "volume_usd": 274551431.2239781
+   "volume_usd": 289205418.01167613
   },
   {
-   "crypto_id": 40561,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 87,
-   "symbol": "SQQQ",
-   "volume_usd": 274220450.7768191
-  },
-  {
-   "crypto_id": 39482,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 88,
-   "symbol": "ORCL",
-   "volume_usd": 264245913.72719964
+   "crypto_id": 40559,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 85,
+   "symbol": "MVLL",
+   "volume_usd": 288469975.91303
   },
   {
    "crypto_id": 39871,
    "exchanges": 19,
    "markets": 19,
-   "rank": 89,
+   "rank": 86,
    "symbol": "AVGO",
-   "volume_usd": 258369348.6900363
-  },
-  {
-   "crypto_id": 39948,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 90,
-   "symbol": "RKLB",
-   "volume_usd": 256530859.2740786
+   "volume_usd": 277950708.70865667
   },
   {
    "crypto_id": 39158,
    "exchanges": 16,
    "markets": 16,
-   "rank": 91,
+   "rank": 87,
    "symbol": "BTW",
-   "volume_usd": 253626010.4995208
+   "volume_usd": 263057837.2633658
   },
   {
-   "crypto_id": 40825,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 92,
-   "symbol": "INTW",
-   "volume_usd": 250888973.33464453
+   "crypto_id": 3945,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 88,
+   "symbol": "ONE",
+   "volume_usd": 262357862.40818736
   },
   {
-   "crypto_id": 39483,
+   "crypto_id": 39948,
    "exchanges": 18,
    "markets": 18,
-   "rank": 93,
-   "symbol": "COIN",
-   "volume_usd": 232628753.49671924
+   "rank": 89,
+   "symbol": "RKLB",
+   "volume_usd": 261000446.0708424
   },
   {
-   "crypto_id": 29814,
-   "exchanges": 24,
-   "markets": 26,
-   "rank": 94,
-   "symbol": "ETHFI",
-   "volume_usd": 231783479.44439664
+   "crypto_id": 41778,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 90,
+   "symbol": "ZHONGJI",
+   "volume_usd": 260656830.28950778
   },
   {
-   "crypto_id": 11841,
-   "exchanges": 20,
-   "markets": 22,
-   "rank": 95,
-   "symbol": "ARB",
-   "volume_usd": 228222343.15603268
-  },
-  {
-   "crypto_id": 40117,
+   "crypto_id": 39482,
    "exchanges": 19,
    "markets": 19,
-   "rank": 96,
-   "symbol": "IREN",
-   "volume_usd": 226719496.82551625
+   "rank": 91,
+   "symbol": "ORCL",
+   "volume_usd": 259976908.95921677
   },
   {
    "crypto_id": 328,
    "exchanges": 14,
    "markets": 15,
-   "rank": 97,
+   "rank": 92,
    "symbol": "XMR",
-   "volume_usd": 223647876.73019174
+   "volume_usd": 256542572.03702044
+  },
+  {
+   "crypto_id": 11419,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 93,
+   "symbol": "GRAM",
+   "volume_usd": 251809436.91283464
+  },
+  {
+   "crypto_id": 22861,
+   "exchanges": 22,
+   "markets": 25,
+   "rank": 94,
+   "symbol": "TIA",
+   "volume_usd": 249178980.55908602
+  },
+  {
+   "crypto_id": 40117,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 95,
+   "symbol": "IREN",
+   "volume_usd": 247089468.91534442
+  },
+  {
+   "crypto_id": 39483,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 96,
+   "symbol": "COIN",
+   "volume_usd": 245587287.75422025
+  },
+  {
+   "crypto_id": 11841,
+   "exchanges": 20,
+   "markets": 22,
+   "rank": 97,
+   "symbol": "ARB",
+   "volume_usd": 242559092.14380613
+  },
+  {
+   "crypto_id": 29814,
+   "exchanges": 24,
+   "markets": 26,
+   "rank": 98,
+   "symbol": "ETHFI",
+   "volume_usd": 238585760.13078135
   },
   {
    "crypto_id": 39931,
    "exchanges": 19,
    "markets": 19,
-   "rank": 98,
-   "symbol": "CBRS",
-   "volume_usd": 221882148.16283622
-  },
-  {
-   "crypto_id": 25028,
-   "exchanges": 23,
-   "markets": 26,
    "rank": 99,
-   "symbol": "ORDI",
-   "volume_usd": 214170225.2639102
+   "symbol": "CBRS",
+   "volume_usd": 234587007.85849494
   },
   {
    "crypto_id": 39670,
@@ -798,63 +798,63 @@
    "markets": 18,
    "rank": 100,
    "symbol": "BMNR",
-   "volume_usd": 212966380.6319798
+   "volume_usd": 233418610.45873445
+  },
+  {
+   "crypto_id": 40825,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 101,
+   "symbol": "INTW",
+   "volume_usd": 230768696.576515
+  },
+  {
+   "crypto_id": 39121,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 102,
+   "symbol": "MAGMA",
+   "volume_usd": 224969028.8549753
+  },
+  {
+   "crypto_id": 25028,
+   "exchanges": 23,
+   "markets": 26,
+   "rank": 103,
+   "symbol": "ORDI",
+   "volume_usd": 221189785.2277599
   },
   {
    "crypto_id": 39994,
    "exchanges": 19,
    "markets": 19,
-   "rank": 101,
+   "rank": 104,
    "symbol": "ARM",
-   "volume_usd": 209601149.47907022
-  },
-  {
-   "crypto_id": 39495,
-   "exchanges": 18,
-   "markets": 19,
-   "rank": 102,
-   "symbol": "MSFT",
-   "volume_usd": 207586871.41087997
-  },
-  {
-   "crypto_id": 22861,
-   "exchanges": 22,
-   "markets": 25,
-   "rank": 103,
-   "symbol": "TIA",
-   "volume_usd": 206826257.71261165
+   "volume_usd": 211659507.6432813
   },
   {
    "crypto_id": 39471,
    "exchanges": 18,
    "markets": 19,
-   "rank": 104,
-   "symbol": "AMZN",
-   "volume_usd": 203247404.67250636
-  },
-  {
-   "crypto_id": 39800,
-   "exchanges": 19,
-   "markets": 19,
    "rank": 105,
-   "symbol": "OPG",
-   "volume_usd": 196087315.0502132
+   "symbol": "AMZN",
+   "volume_usd": 210221753.98059538
   },
   {
-   "crypto_id": 3945,
-   "exchanges": 10,
-   "markets": 10,
+   "crypto_id": 4642,
+   "exchanges": 22,
+   "markets": 25,
    "rank": 106,
-   "symbol": "ONE",
-   "volume_usd": 196084281.60886648
+   "symbol": "HBAR",
+   "volume_usd": 209461553.71267313
   },
   {
-   "crypto_id": 38849,
-   "exchanges": 19,
+   "crypto_id": 39495,
+   "exchanges": 18,
    "markets": 19,
    "rank": 107,
-   "symbol": "PIEVERSE",
-   "volume_usd": 194123661.8951708
+   "symbol": "MSFT",
+   "volume_usd": 208575231.58862057
   },
   {
    "crypto_id": 2280,
@@ -862,47 +862,47 @@
    "markets": 25,
    "rank": 108,
    "symbol": "FIL",
-   "volume_usd": 185406747.79197884
-  },
-  {
-   "crypto_id": 40087,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 109,
-   "symbol": "AMAT",
-   "volume_usd": 182959153.37481126
+   "volume_usd": 204291140.0633861
   },
   {
    "crypto_id": 40204,
    "exchanges": 15,
    "markets": 15,
-   "rank": 110,
+   "rank": 109,
    "symbol": "AXTI",
-   "volume_usd": 182111809.0173536
+   "volume_usd": 199742125.1573328
   },
   {
-   "crypto_id": 4642,
-   "exchanges": 22,
-   "markets": 25,
+   "crypto_id": 39800,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 110,
+   "symbol": "OPG",
+   "volume_usd": 196669326.85423505
+  },
+  {
+   "crypto_id": 39995,
+   "exchanges": 16,
+   "markets": 16,
    "rank": 111,
-   "symbol": "HBAR",
-   "volume_usd": 177541496.29557365
+   "symbol": "COHR",
+   "volume_usd": 179611905.96388656
   },
   {
-   "crypto_id": 26997,
-   "exchanges": 22,
-   "markets": 22,
+   "crypto_id": 37013,
+   "exchanges": 3,
+   "markets": 3,
    "rank": 112,
-   "symbol": "ZRO",
-   "volume_usd": 175105847.75846103
+   "symbol": "GOOGLX",
+   "volume_usd": 175115289.944344
   },
   {
-   "crypto_id": 39490,
-   "exchanges": 20,
-   "markets": 20,
+   "crypto_id": 34466,
+   "exchanges": 23,
+   "markets": 26,
    "rank": 113,
-   "symbol": "TSM",
-   "volume_usd": 173141644.18901387
+   "symbol": "PENGU",
+   "volume_usd": 175081783.46024936
   },
   {
    "crypto_id": 1958,
@@ -910,111 +910,111 @@
    "markets": 22,
    "rank": 114,
    "symbol": "TRX",
-   "volume_usd": 171834201.79809645
+   "volume_usd": 173821637.4336398
   },
   {
-   "crypto_id": 39995,
-   "exchanges": 16,
-   "markets": 16,
+   "crypto_id": 26997,
+   "exchanges": 22,
+   "markets": 22,
    "rank": 115,
-   "symbol": "COHR",
-   "volume_usd": 171054222.0297244
+   "symbol": "ZRO",
+   "volume_usd": 172900545.6210804
   },
   {
-   "crypto_id": 39485,
-   "exchanges": 17,
-   "markets": 17,
+   "crypto_id": 39490,
+   "exchanges": 20,
+   "markets": 20,
    "rank": 116,
-   "symbol": "OPENAI",
-   "volume_usd": 164350809.76221845
+   "symbol": "TSM",
+   "volume_usd": 172220083.2901727
   },
   {
-   "crypto_id": 34466,
-   "exchanges": 23,
-   "markets": 26,
+   "crypto_id": 38849,
+   "exchanges": 19,
+   "markets": 19,
    "rank": 117,
-   "symbol": "PENGU",
-   "volume_usd": 163463491.0609778
-  },
-  {
-   "crypto_id": 39990,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 118,
-   "symbol": "WDC",
-   "volume_usd": 160941629.77810207
-  },
-  {
-   "crypto_id": 39505,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 119,
-   "symbol": "COST",
-   "volume_usd": 158111157.68103302
+   "symbol": "PIEVERSE",
+   "volume_usd": 170461514.721601
   },
   {
    "crypto_id": 40938,
    "exchanges": 22,
    "markets": 22,
-   "rank": 120,
+   "rank": 118,
    "symbol": "PONS",
-   "volume_usd": 157244740.56544948
+   "volume_usd": 164699737.98226532
   },
   {
-   "crypto_id": 6636,
+   "crypto_id": 36341,
    "exchanges": 21,
-   "markets": 27,
-   "rank": 121,
-   "symbol": "DOT",
-   "volume_usd": 153213367.66524792
+   "markets": 22,
+   "rank": 119,
+   "symbol": "ASTER",
+   "volume_usd": 163290747.15852293
   },
   {
-   "crypto_id": 29270,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 122,
-   "symbol": "AERO",
-   "volume_usd": 149498247.0911601
-  },
-  {
-   "crypto_id": 40543,
+   "crypto_id": 40087,
    "exchanges": 17,
    "markets": 17,
-   "rank": 123,
-   "symbol": "ZHIPU",
-   "volume_usd": 149389820.65123868
-  },
-  {
-   "crypto_id": 37013,
-   "exchanges": 3,
-   "markets": 3,
-   "rank": 124,
-   "symbol": "GOOGLX",
-   "volume_usd": 148229784.0113214
-  },
-  {
-   "crypto_id": 38236,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 125,
-   "symbol": "Q",
-   "volume_usd": 143717053.96431667
+   "rank": 120,
+   "symbol": "AMAT",
+   "volume_usd": 161884879.88144633
   },
   {
    "crypto_id": 39475,
    "exchanges": 19,
    "markets": 19,
-   "rank": 126,
+   "rank": 121,
    "symbol": "PLTR",
-   "volume_usd": 143426845.3444297
+   "volume_usd": 160987875.15703508
+  },
+  {
+   "crypto_id": 6636,
+   "exchanges": 21,
+   "markets": 27,
+   "rank": 122,
+   "symbol": "DOT",
+   "volume_usd": 159507266.25457796
+  },
+  {
+   "crypto_id": 39990,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 123,
+   "symbol": "WDC",
+   "volume_usd": 157955918.6240918
+  },
+  {
+   "crypto_id": 21794,
+   "exchanges": 19,
+   "markets": 22,
+   "rank": 124,
+   "symbol": "APT",
+   "volume_usd": 157591129.4592339
   },
   {
    "crypto_id": 8916,
    "exchanges": 18,
    "markets": 19,
-   "rank": 127,
+   "rank": 125,
    "symbol": "ICP",
-   "volume_usd": 142247558.1600648
+   "volume_usd": 154507542.58634615
+  },
+  {
+   "crypto_id": 29270,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 126,
+   "symbol": "AERO",
+   "volume_usd": 153137954.15366682
+  },
+  {
+   "crypto_id": 40543,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 127,
+   "symbol": "ZHIPU",
+   "volume_usd": 152920345.6667946
   },
   {
    "crypto_id": 35509,
@@ -1022,367 +1022,367 @@
    "markets": 21,
    "rank": 128,
    "symbol": "VVV",
-   "volume_usd": 141510340.04912215
-  },
-  {
-   "crypto_id": 31526,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 129,
-   "symbol": "MOCA",
-   "volume_usd": 138803879.4293287
-  },
-  {
-   "crypto_id": 36341,
-   "exchanges": 21,
-   "markets": 22,
-   "rank": 130,
-   "symbol": "ASTER",
-   "volume_usd": 136086592.55128404
-  },
-  {
-   "crypto_id": 39514,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 131,
-   "symbol": "USAR",
-   "volume_usd": 135910182.27149606
-  },
-  {
-   "crypto_id": 3773,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 132,
-   "symbol": "FET",
-   "volume_usd": 134615964.44448978
-  },
-  {
-   "crypto_id": 40088,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 133,
-   "symbol": "DELL",
-   "volume_usd": 134480585.82065737
-  },
-  {
-   "crypto_id": 40857,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 134,
-   "symbol": "CXMT",
-   "volume_usd": 132245956.54305081
-  },
-  {
-   "crypto_id": 21794,
-   "exchanges": 19,
-   "markets": 22,
-   "rank": 135,
-   "symbol": "APT",
-   "volume_usd": 130675323.25979795
+   "volume_usd": 152048785.8639167
   },
   {
    "crypto_id": 32778,
    "exchanges": 3,
    "markets": 4,
-   "rank": 136,
+   "rank": 129,
    "symbol": "DOGE",
-   "volume_usd": 130116465.97189145
+   "volume_usd": 151029220.8933428
   },
   {
-   "crypto_id": 39960,
+   "crypto_id": 39485,
    "exchanges": 17,
    "markets": 17,
-   "rank": 137,
-   "symbol": "MINIMAX",
-   "volume_usd": 123827699.05451235
+   "rank": 130,
+   "symbol": "OPENAI",
+   "volume_usd": 150110295.95901838
+  },
+  {
+   "crypto_id": 31526,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 131,
+   "symbol": "MOCA",
+   "volume_usd": 146747380.64704067
   },
   {
    "crypto_id": 38093,
    "exchanges": 1,
    "markets": 1,
-   "rank": 138,
+   "rank": 132,
    "symbol": "NVDAON",
-   "volume_usd": 122274240.05601893
+   "volume_usd": 146647830.66989127
   },
   {
-   "crypto_id": 36922,
-   "exchanges": 15,
-   "markets": 16,
-   "rank": 139,
-   "symbol": "H",
-   "volume_usd": 119375590.43100135
+   "crypto_id": 38236,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 133,
+   "symbol": "Q",
+   "volume_usd": 140324835.10117465
   },
   {
-   "crypto_id": 131,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 140,
-   "symbol": "DASH",
-   "volume_usd": 115971070.62021361
+   "crypto_id": 3773,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 134,
+   "symbol": "FET",
+   "volume_usd": 138873924.43170187
   },
   {
-   "crypto_id": 38750,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 141,
-   "symbol": "ON",
-   "volume_usd": 111085839.76884338
+   "crypto_id": 40857,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 135,
+   "symbol": "CXMT",
+   "volume_usd": 135307554.8277274
   },
   {
-   "crypto_id": 6538,
-   "exchanges": 21,
-   "markets": 24,
-   "rank": 142,
-   "symbol": "CRV",
-   "volume_usd": 110560872.6098981
+   "crypto_id": 40088,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 136,
+   "symbol": "DELL",
+   "volume_usd": 133127249.18556473
   },
   {
-   "crypto_id": 22691,
-   "exchanges": 22,
-   "markets": 24,
-   "rank": 143,
-   "symbol": "STRK",
-   "volume_usd": 108337012.60728194
-  },
-  {
-   "crypto_id": 41947,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 144,
-   "symbol": "NVDL",
-   "volume_usd": 106780063.53557955
+   "crypto_id": 39514,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 137,
+   "symbol": "USAR",
+   "volume_usd": 131810764.6431424
   },
   {
    "crypto_id": 36576,
    "exchanges": 20,
    "markets": 20,
-   "rank": 145,
+   "rank": 138,
    "symbol": "HUMA",
-   "volume_usd": 105736044.72101283
+   "volume_usd": 130506064.18904203
+  },
+  {
+   "crypto_id": 39505,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 139,
+   "symbol": "COST",
+   "volume_usd": 129804562.87836713
+  },
+  {
+   "crypto_id": 36922,
+   "exchanges": 15,
+   "markets": 16,
+   "rank": 140,
+   "symbol": "H",
+   "volume_usd": 126862713.58786492
+  },
+  {
+   "crypto_id": 39960,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 141,
+   "symbol": "MINIMAX",
+   "volume_usd": 123645208.18576655
   },
   {
    "crypto_id": 29210,
    "exchanges": 23,
    "markets": 23,
-   "rank": 146,
+   "rank": 142,
    "symbol": "JUP",
-   "volume_usd": 102414545.86246717
+   "volume_usd": 119225775.2972258
   },
   {
-   "crypto_id": 28177,
-   "exchanges": 22,
-   "markets": 22,
-   "rank": 147,
-   "symbol": "PYTH",
-   "volume_usd": 102155688.6024118
-  },
-  {
-   "crypto_id": 39932,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 148,
-   "symbol": "QCOM",
-   "volume_usd": 100713857.66409482
+   "crypto_id": 6538,
+   "exchanges": 21,
+   "markets": 24,
+   "rank": 143,
+   "symbol": "CRV",
+   "volume_usd": 118447974.31282233
   },
   {
    "crypto_id": 11840,
    "exchanges": 21,
    "markets": 23,
-   "rank": 149,
+   "rank": 144,
    "symbol": "OP",
-   "volume_usd": 100485036.45034607
+   "volume_usd": 118333410.8342236
   },
   {
-   "crypto_id": 41887,
+   "crypto_id": 131,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 145,
+   "symbol": "DASH",
+   "volume_usd": 116695393.44067706
+  },
+  {
+   "crypto_id": 41947,
    "exchanges": 17,
    "markets": 17,
-   "rank": 150,
-   "symbol": "MRNA",
-   "volume_usd": 100390543.15605381
+   "rank": 146,
+   "symbol": "NVDL",
+   "volume_usd": 116483887.49764773
+  },
+  {
+   "crypto_id": 22691,
+   "exchanges": 22,
+   "markets": 24,
+   "rank": 147,
+   "symbol": "STRK",
+   "volume_usd": 115319498.20849241
   },
   {
    "crypto_id": 5632,
    "exchanges": 17,
    "markets": 17,
-   "rank": 151,
+   "rank": 148,
    "symbol": "AR",
-   "volume_usd": 100010331.94174214
+   "volume_usd": 105450323.80032438
   },
   {
-   "crypto_id": 40238,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 152,
-   "symbol": "SPCX",
-   "volume_usd": 95240085.99336237
-  },
-  {
-   "crypto_id": 39121,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 153,
-   "symbol": "MAGMA",
-   "volume_usd": 94047333.1300005
-  },
-  {
-   "crypto_id": 36828,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 154,
-   "symbol": "USELESS",
-   "volume_usd": 92497831.9941892
-  },
-  {
-   "crypto_id": 36770,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 155,
-   "symbol": "AIN",
-   "volume_usd": 91567330.94578092
+   "crypto_id": 39932,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 149,
+   "symbol": "QCOM",
+   "volume_usd": 104872782.2073587
   },
   {
    "crypto_id": 1321,
    "exchanges": 21,
    "markets": 25,
-   "rank": 156,
+   "rank": 150,
    "symbol": "ETC",
-   "volume_usd": 89083954.05664048
-  },
-  {
-   "crypto_id": 40229,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 157,
-   "symbol": "UVXY",
-   "volume_usd": 89063713.47073762
-  },
-  {
-   "crypto_id": 39064,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 158,
-   "symbol": "NIGHT",
-   "volume_usd": 88971882.98786293
+   "volume_usd": 104263699.12917888
   },
   {
    "crypto_id": 33597,
    "exchanges": 20,
    "markets": 23,
-   "rank": 159,
+   "rank": 151,
    "symbol": "FARTCOIN",
-   "volume_usd": 88765887.35205519
+   "volume_usd": 101977246.02558437
   },
   {
-   "crypto_id": 40035,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 160,
-   "symbol": "GEV",
-   "volume_usd": 88535576.98125853
+   "crypto_id": 28177,
+   "exchanges": 22,
+   "markets": 22,
+   "rank": 152,
+   "symbol": "PYTH",
+   "volume_usd": 101701731.3369441
   },
   {
-   "crypto_id": 3897,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 161,
-   "symbol": "OKB",
-   "volume_usd": 87331236.2222824
+   "crypto_id": 38750,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 153,
+   "symbol": "ON",
+   "volume_usd": 101365628.03713784
+  },
+  {
+   "crypto_id": 40229,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 154,
+   "symbol": "UVXY",
+   "volume_usd": 100466842.62100738
+  },
+  {
+   "crypto_id": 39064,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 155,
+   "symbol": "NIGHT",
+   "volume_usd": 97256944.61071046
+  },
+  {
+   "crypto_id": 40238,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 156,
+   "symbol": "SPCX",
+   "volume_usd": 94942792.91853602
   },
   {
    "crypto_id": 33251,
    "exchanges": 22,
    "markets": 26,
-   "rank": 162,
+   "rank": 157,
    "symbol": "WLFI",
-   "volume_usd": 85327175.43369539
+   "volume_usd": 94684232.12518616
+  },
+  {
+   "crypto_id": 41887,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 158,
+   "symbol": "MRNA",
+   "volume_usd": 94200868.82959945
+  },
+  {
+   "crypto_id": 36770,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 159,
+   "symbol": "AIN",
+   "volume_usd": 90255008.82963037
   },
   {
    "crypto_id": 41072,
    "exchanges": 17,
    "markets": 17,
-   "rank": 163,
+   "rank": 160,
    "symbol": "SKDD",
-   "volume_usd": 83906958.37561414
+   "volume_usd": 89112981.85442853
+  },
+  {
+   "crypto_id": 36828,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 161,
+   "symbol": "USELESS",
+   "volume_usd": 88603949.51399991
   },
   {
    "crypto_id": 32956,
    "exchanges": 21,
    "markets": 21,
-   "rank": 164,
+   "rank": 162,
    "symbol": "GRASS",
-   "volume_usd": 81676866.08079453
-  },
-  {
-   "crypto_id": 4157,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 165,
-   "symbol": "RUNE",
-   "volume_usd": 80856105.72317769
+   "volume_usd": 86799182.09078838
   },
   {
    "crypto_id": 39797,
    "exchanges": 13,
    "markets": 13,
-   "rank": 166,
+   "rank": 163,
    "symbol": "PRL",
-   "volume_usd": 79846224.86779992
+   "volume_usd": 86428569.52348159
+  },
+  {
+   "crypto_id": 4157,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 164,
+   "symbol": "RUNE",
+   "volume_usd": 81948229.45749557
+  },
+  {
+   "crypto_id": 28752,
+   "exchanges": 25,
+   "markets": 28,
+   "rank": 165,
+   "symbol": "WIF",
+   "volume_usd": 80503918.11500737
   },
   {
    "crypto_id": 39486,
    "exchanges": 14,
    "markets": 14,
-   "rank": 167,
+   "rank": 166,
    "symbol": "BABA",
-   "volume_usd": 77652495.64225353
+   "volume_usd": 80392836.295609
   },
   {
-   "crypto_id": 38841,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 168,
-   "symbol": "UAI",
-   "volume_usd": 76212537.79360679
+   "crypto_id": 38770,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 167,
+   "symbol": "MEGA",
+   "volume_usd": 75868249.18379484
   },
   {
    "crypto_id": 41071,
    "exchanges": 17,
    "markets": 17,
-   "rank": 169,
+   "rank": 168,
    "symbol": "SKUU",
-   "volume_usd": 75896322.31862201
+   "volume_usd": 75079484.42673779
   },
   {
-   "crypto_id": 40531,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 170,
-   "symbol": "CAP",
-   "volume_usd": 75536835.30996116
-  },
-  {
-   "crypto_id": 37656,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 171,
-   "symbol": "SPACEX",
-   "volume_usd": 75172269.15466161
-  },
-  {
-   "crypto_id": 39677,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 172,
-   "symbol": "ASML",
-   "volume_usd": 72064805.103411
+   "crypto_id": 23149,
+   "exchanges": 25,
+   "markets": 26,
+   "rank": 169,
+   "symbol": "SEI",
+   "volume_usd": 74778660.70171042
   },
   {
    "crypto_id": 29587,
    "exchanges": 19,
    "markets": 19,
-   "rank": 173,
+   "rank": 170,
    "symbol": "W",
-   "volume_usd": 72039749.36616118
+   "volume_usd": 74578766.94916746
+  },
+  {
+   "crypto_id": 38337,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 171,
+   "symbol": "0G",
+   "volume_usd": 72196390.78818846
+  },
+  {
+   "crypto_id": 5994,
+   "exchanges": 11,
+   "markets": 13,
+   "rank": 172,
+   "symbol": "SHIB",
+   "volume_usd": 71595667.41276291
+  },
+  {
+   "crypto_id": 41779,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 173,
+   "symbol": "SAMSUNGEM",
+   "volume_usd": 71535207.73543394
   },
   {
    "crypto_id": 38035,
@@ -1390,47 +1390,47 @@
    "markets": 2,
    "rank": 174,
    "symbol": "INTCON",
-   "volume_usd": 69180691.68736914
+   "volume_usd": 70932173.32092994
   },
   {
-   "crypto_id": 38770,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 175,
-   "symbol": "MEGA",
-   "volume_usd": 66926864.27768326
-  },
-  {
-   "crypto_id": 41779,
+   "crypto_id": 3897,
    "exchanges": 13,
    "markets": 13,
+   "rank": 175,
+   "symbol": "OKB",
+   "volume_usd": 70915063.15087637
+  },
+  {
+   "crypto_id": 40035,
+   "exchanges": 16,
+   "markets": 16,
    "rank": 176,
-   "symbol": "SAMSUNGEM",
-   "volume_usd": 66835387.94481736
+   "symbol": "GEV",
+   "volume_usd": 70828124.49722114
   },
   {
-   "crypto_id": 3794,
-   "exchanges": 20,
-   "markets": 20,
+   "crypto_id": 38841,
+   "exchanges": 14,
+   "markets": 14,
    "rank": 177,
-   "symbol": "ATOM",
-   "volume_usd": 65776215.3751574
+   "symbol": "UAI",
+   "volume_usd": 68985453.12452282
   },
   {
-   "crypto_id": 38337,
-   "exchanges": 17,
-   "markets": 17,
+   "crypto_id": 29420,
+   "exchanges": 21,
+   "markets": 22,
    "rank": 178,
-   "symbol": "0G",
-   "volume_usd": 65647667.2193899
+   "symbol": "VIRTUAL",
+   "volume_usd": 68807269.39258707
   },
   {
-   "crypto_id": 23149,
-   "exchanges": 25,
-   "markets": 26,
+   "crypto_id": 37656,
+   "exchanges": 1,
+   "markets": 1,
    "rank": 179,
-   "symbol": "SEI",
-   "volume_usd": 63192976.20875927
+   "symbol": "SPACEX",
+   "volume_usd": 67758801.08890815
   },
   {
    "crypto_id": 2416,
@@ -1438,903 +1438,903 @@
    "markets": 15,
    "rank": 180,
    "symbol": "THETA",
-   "volume_usd": 62434743.56358275
+   "volume_usd": 66590136.60311639
   },
   {
-   "crypto_id": 40010,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 181,
-   "symbol": "GLW",
-   "volume_usd": 62013291.976131484
-  },
-  {
-   "crypto_id": 28752,
-   "exchanges": 25,
-   "markets": 28,
-   "rank": 182,
-   "symbol": "WIF",
-   "volume_usd": 61820362.43897511
-  },
-  {
-   "crypto_id": 37693,
-   "exchanges": 6,
-   "markets": 6,
-   "rank": 183,
-   "symbol": "ANTHROPIC",
-   "volume_usd": 60635777.88916284
-  },
-  {
-   "crypto_id": 29420,
-   "exchanges": 21,
-   "markets": 22,
-   "rank": 184,
-   "symbol": "VIRTUAL",
-   "volume_usd": 58545899.92149223
-  },
-  {
-   "crypto_id": 40676,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 185,
-   "symbol": "RAM",
-   "volume_usd": 57911670.04517027
-  },
-  {
-   "crypto_id": 8526,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 186,
-   "symbol": "RAY",
-   "volume_usd": 57819826.760235034
-  },
-  {
-   "crypto_id": 5994,
-   "exchanges": 11,
-   "markets": 13,
-   "rank": 187,
-   "symbol": "SHIB",
-   "volume_usd": 57672309.40625567
-  },
-  {
-   "crypto_id": 40108,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 188,
-   "symbol": "ASTS",
-   "volume_usd": 56044202.24380659
-  },
-  {
-   "crypto_id": 4847,
+   "crypto_id": 3794,
    "exchanges": 20,
    "markets": 20,
-   "rank": 189,
-   "symbol": "STX",
-   "volume_usd": 55477515.78051887
+   "rank": 181,
+   "symbol": "ATOM",
+   "volume_usd": 65777003.002373025
+  },
+  {
+   "crypto_id": 39677,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 182,
+   "symbol": "ASML",
+   "volume_usd": 65444957.09503962
   },
   {
    "crypto_id": 38092,
    "exchanges": 2,
    "markets": 2,
-   "rank": 190,
+   "rank": 183,
    "symbol": "MSTRON",
-   "volume_usd": 54124729.79367202
+   "volume_usd": 64222954.31484441
   },
   {
-   "crypto_id": 41945,
+   "crypto_id": 8526,
    "exchanges": 16,
    "markets": 16,
-   "rank": 191,
-   "symbol": "MARA",
-   "volume_usd": 53768365.82340369
+   "rank": 184,
+   "symbol": "RAY",
+   "volume_usd": 61193807.9163815
+  },
+  {
+   "crypto_id": 40010,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 185,
+   "symbol": "GLW",
+   "volume_usd": 60906731.724820025
+  },
+  {
+   "crypto_id": 4847,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 186,
+   "symbol": "STX",
+   "volume_usd": 60729151.020018466
   },
   {
    "crypto_id": 5690,
    "exchanges": 13,
    "markets": 13,
-   "rank": 192,
+   "rank": 187,
    "symbol": "RENDER",
-   "volume_usd": 52890901.33782948
+   "volume_usd": 58162538.23904033
   },
   {
-   "crypto_id": 42253,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 193,
-   "symbol": "CT",
-   "volume_usd": 51657734.90144482
-  },
-  {
-   "crypto_id": 36275,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 194,
-   "symbol": "SUP",
-   "volume_usd": 51607566.64436887
-  },
-  {
-   "crypto_id": 18876,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 195,
-   "symbol": "APE",
-   "volume_usd": 50625989.923844546
-  },
-  {
-   "crypto_id": 38569,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 196,
-   "symbol": "APR",
-   "volume_usd": 49989495.53594358
-  },
-  {
-   "crypto_id": 38978,
+   "crypto_id": 40676,
    "exchanges": 17,
    "markets": 17,
-   "rank": 197,
-   "symbol": "IRYS",
-   "volume_usd": 49664106.572475225
+   "rank": 188,
+   "symbol": "RAM",
+   "volume_usd": 56199422.41151144
   },
   {
-   "crypto_id": 37041,
-   "exchanges": 2,
-   "markets": 3,
-   "rank": 198,
-   "symbol": "HOODX",
-   "volume_usd": 48490318.402034275
+   "crypto_id": 40108,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 189,
+   "symbol": "ASTS",
+   "volume_usd": 55637882.52424952
   },
   {
-   "crypto_id": 39509,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 199,
-   "symbol": "LLY",
-   "volume_usd": 48447198.02143193
+   "crypto_id": 40531,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 190,
+   "symbol": "CAP",
+   "volume_usd": 55585675.883981675
   },
   {
-   "crypto_id": 40809,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 200,
-   "symbol": "CASHCAT",
-   "volume_usd": 48287977.81240233
-  },
-  {
-   "crypto_id": 28081,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 201,
-   "symbol": "SPX",
-   "volume_usd": 47372977.49271217
-  },
-  {
-   "crypto_id": 24781,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 202,
-   "symbol": "CYBER",
-   "volume_usd": 47071273.86044621
-  },
-  {
-   "crypto_id": 38094,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 203,
-   "symbol": "QQQON",
-   "volume_usd": 46040339.510790825
+   "crypto_id": 37693,
+   "exchanges": 6,
+   "markets": 6,
+   "rank": 191,
+   "symbol": "ANTHROPIC",
+   "volume_usd": 54832383.06379188
   },
   {
    "crypto_id": 8000,
    "exchanges": 20,
    "markets": 20,
-   "rank": 204,
+   "rank": 192,
    "symbol": "LDO",
-   "volume_usd": 45733530.21616621
+   "volume_usd": 53992082.36326334
   },
   {
-   "crypto_id": 42531,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 205,
-   "symbol": "MSTU",
-   "volume_usd": 45533754.98094594
+   "crypto_id": 38094,
+   "exchanges": 2,
+   "markets": 2,
+   "rank": 193,
+   "symbol": "QQQON",
+   "volume_usd": 52572057.674682945
+  },
+  {
+   "crypto_id": 18876,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 194,
+   "symbol": "APE",
+   "volume_usd": 51736407.30367182
   },
   {
    "crypto_id": 40686,
    "exchanges": 1,
    "markets": 1,
-   "rank": 206,
+   "rank": 195,
    "symbol": "QQQ",
-   "volume_usd": 45003710.66889189
+   "volume_usd": 51729062.05959751
   },
   {
-   "crypto_id": 10508,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 207,
-   "symbol": "FLUID",
-   "volume_usd": 44068213.11855706
-  },
-  {
-   "crypto_id": 38408,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 208,
-   "symbol": "BARD",
-   "volume_usd": 43907180.98893347
-  },
-  {
-   "crypto_id": 23095,
-   "exchanges": 15,
-   "markets": 16,
-   "rank": 209,
-   "symbol": "BONK",
-   "volume_usd": 42180939.1275001
-  },
-  {
-   "crypto_id": 30372,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 210,
-   "symbol": "SAGA",
-   "volume_usd": 42134648.98982284
-  },
-  {
-   "crypto_id": 40548,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 211,
-   "symbol": "KLAC",
-   "volume_usd": 41346425.658927366
-  },
-  {
-   "crypto_id": 38417,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 212,
-   "symbol": "RIVER",
-   "volume_usd": 41217423.40284246
-  },
-  {
-   "crypto_id": 39332,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 213,
-   "symbol": "ZAMA",
-   "volume_usd": 40435968.21057392
-  },
-  {
-   "crypto_id": 38837,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 214,
-   "symbol": "BEAT",
-   "volume_usd": 39945655.09138434
-  },
-  {
-   "crypto_id": 30986,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 215,
-   "symbol": "KMNO",
-   "volume_usd": 39911853.0082667
-  },
-  {
-   "crypto_id": 36352,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 216,
-   "symbol": "B2",
-   "volume_usd": 39880154.56448698
-  },
-  {
-   "crypto_id": 6210,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 217,
-   "symbol": "SAND",
-   "volume_usd": 39778067.70667815
-  },
-  {
-   "crypto_id": 28321,
-   "exchanges": 21,
-   "markets": 23,
-   "rank": 218,
-   "symbol": "POL",
-   "volume_usd": 39292604.49203683
-  },
-  {
-   "crypto_id": 39970,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 219,
-   "symbol": "ARX",
-   "volume_usd": 38395201.67039847
-  },
-  {
-   "crypto_id": 9481,
-   "exchanges": 19,
-   "markets": 20,
-   "rank": 220,
-   "symbol": "PENDLE",
-   "volume_usd": 38390441.21786087
-  },
-  {
-   "crypto_id": 28066,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 221,
-   "symbol": "BANANA",
-   "volume_usd": 37872233.33302268
-  },
-  {
-   "crypto_id": 39629,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 222,
-   "symbol": "APP",
-   "volume_usd": 37677667.21046372
-  },
-  {
-   "crypto_id": 40833,
+   "crypto_id": 36275,
    "exchanges": 1,
    "markets": 1,
-   "rank": 223,
-   "symbol": "SKHY",
-   "volume_usd": 37429521.69388105
+   "rank": 196,
+   "symbol": "SUP",
+   "volume_usd": 51612156.87358744
   },
   {
-   "crypto_id": 38828,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 224,
-   "symbol": "KITE",
-   "volume_usd": 37047069.821071275
-  },
-  {
-   "crypto_id": 32087,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 225,
-   "symbol": "SOPH",
-   "volume_usd": 36797118.389010206
-  },
-  {
-   "crypto_id": 39498,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 226,
-   "symbol": "SMH",
-   "volume_usd": 36787028.27533381
-  },
-  {
-   "crypto_id": 39720,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 227,
-   "symbol": "EDGE",
-   "volume_usd": 36548693.84074142
-  },
-  {
-   "crypto_id": 35364,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 228,
-   "symbol": "PLUME",
-   "volume_usd": 35918627.38734981
-  },
-  {
-   "crypto_id": 35702,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 229,
-   "symbol": "NIL",
-   "volume_usd": 35825937.279386565
-  },
-  {
-   "crypto_id": 40678,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 230,
-   "symbol": "KSTR",
-   "volume_usd": 35780383.76311217
-  },
-  {
-   "crypto_id": 28541,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 231,
-   "symbol": "JTO",
-   "volume_usd": 35746932.565880194
-  },
-  {
-   "crypto_id": 4066,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 232,
-   "symbol": "CHZ",
-   "volume_usd": 35506724.02407637
-  },
-  {
-   "crypto_id": 1214,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 233,
-   "symbol": "LSK",
-   "volume_usd": 35382668.814293414
-  },
-  {
-   "crypto_id": 34812,
-   "exchanges": 19,
-   "markets": 21,
-   "rank": 234,
-   "symbol": "BIO",
-   "volume_usd": 35223385.471081816
-  },
-  {
-   "crypto_id": 40549,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 235,
-   "symbol": "SMCI",
-   "volume_usd": 35175945.371338464
-  },
-  {
-   "crypto_id": 28674,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 236,
-   "symbol": "ACE",
-   "volume_usd": 35074524.59391476
-  },
-  {
-   "crypto_id": 20396,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 237,
-   "symbol": "KAS",
-   "volume_usd": 34918665.30883758
-  },
-  {
-   "crypto_id": 40203,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 238,
-   "symbol": "CRDO",
-   "volume_usd": 34749132.87418644
-  },
-  {
-   "crypto_id": 40955,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 239,
-   "symbol": "GIGADEV",
-   "volume_usd": 34487741.86668337
-  },
-  {
-   "crypto_id": 40944,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 240,
-   "symbol": "MARSCOIN",
-   "volume_usd": 34300431.79064691
-  },
-  {
-   "crypto_id": 39870,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 241,
-   "symbol": "CHIP",
-   "volume_usd": 34126273.42622534
-  },
-  {
-   "crypto_id": 37004,
+   "crypto_id": 37041,
    "exchanges": 2,
    "markets": 3,
-   "rank": 242,
-   "symbol": "TSLAX",
-   "volume_usd": 33548000.46434468
+   "rank": 197,
+   "symbol": "HOODX",
+   "volume_usd": 51072255.05338035
   },
   {
-   "crypto_id": 41912,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 243,
-   "symbol": "DGAI",
-   "volume_usd": 33521409.57419279
+   "crypto_id": 39509,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 198,
+   "symbol": "LLY",
+   "volume_usd": 50840732.43436011
   },
   {
-   "crypto_id": 29870,
-   "exchanges": 23,
-   "markets": 25,
-   "rank": 244,
-   "symbol": "BOME",
-   "volume_usd": 33132403.02465009
-  },
-  {
-   "crypto_id": 36041,
+   "crypto_id": 24781,
    "exchanges": 16,
    "markets": 16,
-   "rank": 245,
-   "symbol": "MUBARAK",
-   "volume_usd": 33088279.790881835
+   "rank": 199,
+   "symbol": "CYBER",
+   "volume_usd": 50334444.88934434
   },
   {
-   "crypto_id": 24091,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 246,
-   "symbol": "ZK",
-   "volume_usd": 33036843.91656609
+   "crypto_id": 42253,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 200,
+   "symbol": "CT",
+   "volume_usd": 50332361.16492246
   },
   {
-   "crypto_id": 37263,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 247,
-   "symbol": "CC",
-   "volume_usd": 32930742.24749346
+   "crypto_id": 40809,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 201,
+   "symbol": "CASHCAT",
+   "volume_usd": 49766240.299457155
   },
   {
    "crypto_id": 41918,
    "exchanges": 15,
    "markets": 15,
-   "rank": 248,
+   "rank": 202,
    "symbol": "DJT",
-   "volume_usd": 32842450.632541355
+   "volume_usd": 49065950.65534995
   },
   {
-   "crypto_id": 7186,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 249,
-   "symbol": "CAKE",
-   "volume_usd": 32481092.866452333
-  },
-  {
-   "crypto_id": 37070,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 250,
-   "symbol": "ICNT",
-   "volume_usd": 31598629.24710702
-  },
-  {
-   "crypto_id": 36542,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 251,
-   "symbol": "SOON",
-   "volume_usd": 30403829.744894706
-  },
-  {
-   "crypto_id": 36102,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 252,
-   "symbol": "PARTI",
-   "volume_usd": 30324314.685658317
-  },
-  {
-   "crypto_id": 36319,
-   "exchanges": 7,
-   "markets": 7,
-   "rank": 253,
-   "symbol": "AIOT",
-   "volume_usd": 30261021.055174883
-  },
-  {
-   "crypto_id": 38468,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 254,
-   "symbol": "HANA",
-   "volume_usd": 30128755.067765046
-  },
-  {
-   "crypto_id": 41861,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 255,
-   "symbol": "\u725b\u6765",
-   "volume_usd": 29938920.04708299
-  },
-  {
-   "crypto_id": 40147,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 256,
-   "symbol": "SOXLX",
-   "volume_usd": 29809774.04461228
-  },
-  {
-   "crypto_id": 38001,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 257,
-   "symbol": "GOOGLON",
-   "volume_usd": 29551543.24531924
-  },
-  {
-   "crypto_id": 4030,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 258,
-   "symbol": "ALGO",
-   "volume_usd": 28981920.01635463
-  },
-  {
-   "crypto_id": 4120,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 259,
-   "symbol": "PROM",
-   "volume_usd": 28882336.33813399
-  },
-  {
-   "crypto_id": 28298,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 260,
-   "symbol": "BEAM",
-   "volume_usd": 28714043.563548245
-  },
-  {
-   "crypto_id": 39479,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 261,
-   "symbol": "NFLX",
-   "volume_usd": 27495267.52833865
-  },
-  {
-   "crypto_id": 40807,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 262,
-   "symbol": "SHAZ",
-   "volume_usd": 27342957.640982844
-  },
-  {
-   "crypto_id": 2682,
-   "exchanges": 6,
-   "markets": 6,
-   "rank": 263,
-   "symbol": "HOT",
-   "volume_usd": 27090365.727052104
-  },
-  {
-   "crypto_id": 30712,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 264,
-   "symbol": "MERL",
-   "volume_usd": 27074936.61080747
-  },
-  {
-   "crypto_id": 34104,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 265,
-   "symbol": "MORPHO",
-   "volume_usd": 27051126.67996578
-  },
-  {
-   "crypto_id": 40224,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 266,
-   "symbol": "RE",
-   "volume_usd": 27048543.265859444
-  },
-  {
-   "crypto_id": 19765,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 267,
-   "symbol": "BIRB",
-   "volume_usd": 27006022.086888123
-  },
-  {
-   "crypto_id": 38717,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 268,
-   "symbol": "BLUAI",
-   "volume_usd": 26923339.351172876
-  },
-  {
-   "crypto_id": 40517,
+   "crypto_id": 23095,
    "exchanges": 15,
-   "markets": 15,
-   "rank": 269,
-   "symbol": "ALAB",
-   "volume_usd": 26905931.4886897
+   "markets": 16,
+   "rank": 203,
+   "symbol": "BONK",
+   "volume_usd": 48916283.05827881
   },
   {
-   "crypto_id": 40116,
+   "crypto_id": 42531,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 204,
+   "symbol": "MSTU",
+   "volume_usd": 48713164.67569163
+  },
+  {
+   "crypto_id": 41945,
    "exchanges": 16,
    "markets": 16,
-   "rank": 270,
-   "symbol": "CRM",
-   "volume_usd": 26691563.97999898
-  },
-  {
-   "crypto_id": 38353,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 271,
-   "symbol": "MET",
-   "volume_usd": 26458983.261710852
-  },
-  {
-   "crypto_id": 39665,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 272,
-   "symbol": "UP",
-   "volume_usd": 26226997.105142906
-  },
-  {
-   "crypto_id": 35214,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 273,
-   "symbol": "BMT",
-   "volume_usd": 25650975.900711577
-  },
-  {
-   "crypto_id": 40679,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 274,
-   "symbol": "TTWO",
-   "volume_usd": 25562091.30273742
-  },
-  {
-   "crypto_id": 37534,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 275,
-   "symbol": "PLAY",
-   "volume_usd": 25142135.09759081
-  },
-  {
-   "crypto_id": 39861,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 276,
-   "symbol": "PDD",
-   "volume_usd": 25084239.296974286
-  },
-  {
-   "crypto_id": 39634,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 277,
-   "symbol": "IBM",
-   "volume_usd": 25028848.602501724
-  },
-  {
-   "crypto_id": 30494,
-   "exchanges": 20,
-   "markets": 21,
-   "rank": 278,
-   "symbol": "EIGEN",
-   "volume_usd": 24964826.007516805
-  },
-  {
-   "crypto_id": 40113,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 279,
-   "symbol": "HIMS",
-   "volume_usd": 24829725.029811494
-  },
-  {
-   "crypto_id": 36300,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 280,
-   "symbol": "SKYAI",
-   "volume_usd": 24661166.30453484
-  },
-  {
-   "crypto_id": 40118,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 281,
-   "symbol": "ONDS",
-   "volume_usd": 24583851.302766636
+   "rank": 205,
+   "symbol": "MARA",
+   "volume_usd": 48093160.27935611
   },
   {
    "crypto_id": 36405,
    "exchanges": 15,
    "markets": 15,
-   "rank": 282,
+   "rank": 206,
    "symbol": "SXT",
-   "volume_usd": 24397388.519762166
+   "volume_usd": 47799649.12462165
+  },
+  {
+   "crypto_id": 28081,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 207,
+   "symbol": "SPX",
+   "volume_usd": 46868050.55696051
+  },
+  {
+   "crypto_id": 28321,
+   "exchanges": 21,
+   "markets": 23,
+   "rank": 208,
+   "symbol": "POL",
+   "volume_usd": 44845384.231021374
+  },
+  {
+   "crypto_id": 9481,
+   "exchanges": 19,
+   "markets": 20,
+   "rank": 209,
+   "symbol": "PENDLE",
+   "volume_usd": 44594643.220052294
+  },
+  {
+   "crypto_id": 10508,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 210,
+   "symbol": "FLUID",
+   "volume_usd": 43777223.85613654
+  },
+  {
+   "crypto_id": 6210,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 211,
+   "symbol": "SAND",
+   "volume_usd": 43762422.46528331
+  },
+  {
+   "crypto_id": 38408,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 212,
+   "symbol": "BARD",
+   "volume_usd": 42916816.51905806
+  },
+  {
+   "crypto_id": 29870,
+   "exchanges": 23,
+   "markets": 25,
+   "rank": 213,
+   "symbol": "BOME",
+   "volume_usd": 42351018.365172595
+  },
+  {
+   "crypto_id": 30372,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 214,
+   "symbol": "SAGA",
+   "volume_usd": 42342187.378880806
+  },
+  {
+   "crypto_id": 39332,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 215,
+   "symbol": "ZAMA",
+   "volume_usd": 42283545.835786074
+  },
+  {
+   "crypto_id": 38978,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 216,
+   "symbol": "IRYS",
+   "volume_usd": 41568984.602246016
+  },
+  {
+   "crypto_id": 38417,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 217,
+   "symbol": "RIVER",
+   "volume_usd": 41567691.29266737
+  },
+  {
+   "crypto_id": 4066,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 218,
+   "symbol": "CHZ",
+   "volume_usd": 41137045.97212934
+  },
+  {
+   "crypto_id": 38828,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 219,
+   "symbol": "KITE",
+   "volume_usd": 40652869.30513944
+  },
+  {
+   "crypto_id": 38837,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 220,
+   "symbol": "BEAT",
+   "volume_usd": 40421981.851225734
+  },
+  {
+   "crypto_id": 35702,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 221,
+   "symbol": "NIL",
+   "volume_usd": 39261500.78996313
+  },
+  {
+   "crypto_id": 28541,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 222,
+   "symbol": "JTO",
+   "volume_usd": 39177632.45967613
+  },
+  {
+   "crypto_id": 30986,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 223,
+   "symbol": "KMNO",
+   "volume_usd": 39157860.86959847
+  },
+  {
+   "crypto_id": 32087,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 224,
+   "symbol": "SOPH",
+   "volume_usd": 39103894.84444437
+  },
+  {
+   "crypto_id": 1214,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 225,
+   "symbol": "LSK",
+   "volume_usd": 38863192.715297036
+  },
+  {
+   "crypto_id": 40833,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 226,
+   "symbol": "SKHY",
+   "volume_usd": 38668255.68282102
+  },
+  {
+   "crypto_id": 34812,
+   "exchanges": 19,
+   "markets": 21,
+   "rank": 227,
+   "symbol": "BIO",
+   "volume_usd": 38551389.165889144
+  },
+  {
+   "crypto_id": 7186,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 228,
+   "symbol": "CAKE",
+   "volume_usd": 38364113.40716253
+  },
+  {
+   "crypto_id": 35364,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 229,
+   "symbol": "PLUME",
+   "volume_usd": 38299167.03276255
+  },
+  {
+   "crypto_id": 4120,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 230,
+   "symbol": "PROM",
+   "volume_usd": 38214189.10252596
+  },
+  {
+   "crypto_id": 28066,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 231,
+   "symbol": "BANANA",
+   "volume_usd": 38100540.7823258
+  },
+  {
+   "crypto_id": 40549,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 232,
+   "symbol": "SMCI",
+   "volume_usd": 37842635.99329331
+  },
+  {
+   "crypto_id": 40118,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 233,
+   "symbol": "ONDS",
+   "volume_usd": 37840335.40413645
+  },
+  {
+   "crypto_id": 38001,
+   "exchanges": 2,
+   "markets": 2,
+   "rank": 234,
+   "symbol": "GOOGLON",
+   "volume_usd": 37098182.3051929
+  },
+  {
+   "crypto_id": 28674,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 235,
+   "symbol": "ACE",
+   "volume_usd": 36631777.50312277
+  },
+  {
+   "crypto_id": 39498,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 236,
+   "symbol": "SMH",
+   "volume_usd": 36485119.07435918
+  },
+  {
+   "crypto_id": 24091,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 237,
+   "symbol": "ZK",
+   "volume_usd": 36179833.13071249
+  },
+  {
+   "crypto_id": 40678,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 238,
+   "symbol": "KSTR",
+   "volume_usd": 35880998.01195915
+  },
+  {
+   "crypto_id": 40548,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 239,
+   "symbol": "KLAC",
+   "volume_usd": 35634507.472935304
+  },
+  {
+   "crypto_id": 37004,
+   "exchanges": 2,
+   "markets": 3,
+   "rank": 240,
+   "symbol": "TSLAX",
+   "volume_usd": 35457727.77340411
+  },
+  {
+   "crypto_id": 39970,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 241,
+   "symbol": "ARX",
+   "volume_usd": 34943443.66821878
+  },
+  {
+   "crypto_id": 40944,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 242,
+   "symbol": "MARSCOIN",
+   "volume_usd": 34854807.91994653
+  },
+  {
+   "crypto_id": 40955,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 243,
+   "symbol": "GIGADEV",
+   "volume_usd": 34679250.06589595
+  },
+  {
+   "crypto_id": 41861,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 244,
+   "symbol": "\u725b\u6765",
+   "volume_usd": 34570513.19490873
+  },
+  {
+   "crypto_id": 38569,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 245,
+   "symbol": "APR",
+   "volume_usd": 34517709.24503184
+  },
+  {
+   "crypto_id": 40203,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 246,
+   "symbol": "CRDO",
+   "volume_usd": 34491428.53995431
+  },
+  {
+   "crypto_id": 39629,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 247,
+   "symbol": "APP",
+   "volume_usd": 34100033.65177925
+  },
+  {
+   "crypto_id": 39870,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 248,
+   "symbol": "CHIP",
+   "volume_usd": 33956383.13995592
+  },
+  {
+   "crypto_id": 4030,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 249,
+   "symbol": "ALGO",
+   "volume_usd": 33899731.79463095
+  },
+  {
+   "crypto_id": 36041,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 250,
+   "symbol": "MUBARAK",
+   "volume_usd": 33462473.49387299
+  },
+  {
+   "crypto_id": 38468,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 251,
+   "symbol": "HANA",
+   "volume_usd": 33334019.595588632
+  },
+  {
+   "crypto_id": 41912,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 252,
+   "symbol": "DGAI",
+   "volume_usd": 33266748.55122729
+  },
+  {
+   "crypto_id": 36542,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 253,
+   "symbol": "SOON",
+   "volume_usd": 32333326.089699496
+  },
+  {
+   "crypto_id": 40147,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 254,
+   "symbol": "SOXLX",
+   "volume_usd": 32111949.99831297
+  },
+  {
+   "crypto_id": 36102,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 255,
+   "symbol": "PARTI",
+   "volume_usd": 31034067.14968455
+  },
+  {
+   "crypto_id": 40224,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 256,
+   "symbol": "RE",
+   "volume_usd": 30826099.25915294
+  },
+  {
+   "crypto_id": 30494,
+   "exchanges": 20,
+   "markets": 21,
+   "rank": 257,
+   "symbol": "EIGEN",
+   "volume_usd": 29820754.735117555
+  },
+  {
+   "crypto_id": 39720,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 258,
+   "symbol": "EDGE",
+   "volume_usd": 29623983.923870213
+  },
+  {
+   "crypto_id": 20396,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 259,
+   "symbol": "KAS",
+   "volume_usd": 29369381.470743738
+  },
+  {
+   "crypto_id": 36319,
+   "exchanges": 7,
+   "markets": 7,
+   "rank": 260,
+   "symbol": "AIOT",
+   "volume_usd": 29341061.39496873
+  },
+  {
+   "crypto_id": 37070,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 261,
+   "symbol": "ICNT",
+   "volume_usd": 28959868.98204347
+  },
+  {
+   "crypto_id": 39665,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 262,
+   "symbol": "UP",
+   "volume_usd": 28751587.52154927
+  },
+  {
+   "crypto_id": 40807,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 263,
+   "symbol": "SHAZ",
+   "volume_usd": 28705952.266428906
+  },
+  {
+   "crypto_id": 37263,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 264,
+   "symbol": "CC",
+   "volume_usd": 28550224.690805595
+  },
+  {
+   "crypto_id": 35214,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 265,
+   "symbol": "BMT",
+   "volume_usd": 28497469.22548594
+  },
+  {
+   "crypto_id": 34104,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 266,
+   "symbol": "MORPHO",
+   "volume_usd": 28291958.89347065
+  },
+  {
+   "crypto_id": 28298,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 267,
+   "symbol": "BEAM",
+   "volume_usd": 28104671.631848272
+  },
+  {
+   "crypto_id": 37534,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 268,
+   "symbol": "PLAY",
+   "volume_usd": 28025969.675666068
   },
   {
    "crypto_id": 38027,
    "exchanges": 1,
    "markets": 1,
-   "rank": 283,
+   "rank": 269,
    "symbol": "AMDON",
-   "volume_usd": 24329005.75737265
+   "volume_usd": 27914365.09606751
+  },
+  {
+   "crypto_id": 39479,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 270,
+   "symbol": "NFLX",
+   "volume_usd": 27729144.71969804
+  },
+  {
+   "crypto_id": 36352,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 271,
+   "symbol": "B2",
+   "volume_usd": 27704729.33789226
+  },
+  {
+   "crypto_id": 30712,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 272,
+   "symbol": "MERL",
+   "volume_usd": 27264729.023666847
+  },
+  {
+   "crypto_id": 38353,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 273,
+   "symbol": "MET",
+   "volume_usd": 27178703.074008465
+  },
+  {
+   "crypto_id": 19765,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 274,
+   "symbol": "BIRB",
+   "volume_usd": 27162649.33715742
+  },
+  {
+   "crypto_id": 2682,
+   "exchanges": 6,
+   "markets": 6,
+   "rank": 275,
+   "symbol": "HOT",
+   "volume_usd": 26948885.51752639
   },
   {
    "crypto_id": 1697,
    "exchanges": 12,
    "markets": 12,
-   "rank": 284,
+   "rank": 276,
    "symbol": "BAT",
-   "volume_usd": 24294158.549558707
+   "volume_usd": 26586442.471991852
   },
   {
-   "crypto_id": 40980,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 285,
-   "symbol": "DOS",
-   "volume_usd": 23729081.48256339
+   "crypto_id": 40679,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 277,
+   "symbol": "TTWO",
+   "volume_usd": 26478474.182341687
   },
   {
-   "crypto_id": 42381,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 286,
-   "symbol": "SECZ",
-   "volume_usd": 23399267.24566677
+   "crypto_id": 30495,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 278,
+   "symbol": "MON",
+   "volume_usd": 26094139.792226315
   },
   {
-   "crypto_id": 14783,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 287,
-   "symbol": "MAGIC",
-   "volume_usd": 23149866.25595148
-  },
-  {
-   "crypto_id": 36044,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 288,
-   "symbol": "NXPC",
-   "volume_usd": 23111911.259916145
+   "crypto_id": 40517,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 279,
+   "symbol": "ALAB",
+   "volume_usd": 26043558.694522608
   },
   {
    "crypto_id": 36989,
    "exchanges": 3,
    "markets": 3,
-   "rank": 289,
+   "rank": 280,
    "symbol": "COINX",
-   "volume_usd": 23037158.79670827
+   "volume_usd": 25893799.3820808
   },
   {
-   "crypto_id": 40037,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 290,
-   "symbol": "SNDKX",
-   "volume_usd": 23015646.21926462
+   "crypto_id": 38376,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 281,
+   "symbol": "EVAA",
+   "volume_usd": 25793855.76352682
   },
   {
-   "crypto_id": 38908,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 291,
-   "symbol": "ALLO",
-   "volume_usd": 22853601.52764305
+   "crypto_id": 40557,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 282,
+   "symbol": "STRC",
+   "volume_usd": 25660113.22841051
   },
   {
    "crypto_id": 36769,
    "exchanges": 9,
    "markets": 9,
-   "rank": 292,
+   "rank": 283,
    "symbol": "BULLA",
-   "volume_usd": 22693617.159252517
+   "volume_usd": 25564607.954107698
+  },
+  {
+   "crypto_id": 39634,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 284,
+   "symbol": "IBM",
+   "volume_usd": 25401715.133633025
+  },
+  {
+   "crypto_id": 39861,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 285,
+   "symbol": "PDD",
+   "volume_usd": 25336421.681206074
+  },
+  {
+   "crypto_id": 14783,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 286,
+   "symbol": "MAGIC",
+   "volume_usd": 24412204.662049852
+  },
+  {
+   "crypto_id": 38908,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 287,
+   "symbol": "ALLO",
+   "volume_usd": 24301565.857961807
+  },
+  {
+   "crypto_id": 40037,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 288,
+   "symbol": "SNDKX",
+   "volume_usd": 24127844.47090755
+  },
+  {
+   "crypto_id": 36569,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 289,
+   "symbol": "SPK",
+   "volume_usd": 23778008.15547612
+  },
+  {
+   "crypto_id": 40113,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 290,
+   "symbol": "HIMS",
+   "volume_usd": 23419828.482103717
+  },
+  {
+   "crypto_id": 40757,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 291,
+   "symbol": "GOOGL",
+   "volume_usd": 23355320.04268807
+  },
+  {
+   "crypto_id": 38717,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 292,
+   "symbol": "BLUAI",
+   "volume_usd": 23247133.93138063
   },
   {
    "crypto_id": 29835,
@@ -2342,127 +2342,127 @@
    "markets": 20,
    "rank": 293,
    "symbol": "IO",
-   "volume_usd": 22361885.612136297
-  },
-  {
-   "crypto_id": 40557,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 294,
-   "symbol": "STRC",
-   "volume_usd": 22212238.99262002
-  },
-  {
-   "crypto_id": 40094,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 295,
-   "symbol": "QNTX",
-   "volume_usd": 22153132.48498342
-  },
-  {
-   "crypto_id": 40015,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 296,
-   "symbol": "WMT",
-   "volume_usd": 21695218.31517483
+   "volume_usd": 22897065.111592103
   },
   {
    "crypto_id": 33824,
    "exchanges": 20,
    "markets": 20,
-   "rank": 297,
+   "rank": 294,
    "symbol": "SYRUP",
-   "volume_usd": 21666453.17879171
+   "volume_usd": 22880738.2280264
+  },
+  {
+   "crypto_id": 40980,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 295,
+   "symbol": "DOS",
+   "volume_usd": 22721738.423375797
+  },
+  {
+   "crypto_id": 40116,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 296,
+   "symbol": "CRM",
+   "volume_usd": 22499940.93423461
+  },
+  {
+   "crypto_id": 40094,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 297,
+   "symbol": "QNTX",
+   "volume_usd": 22021852.282718707
+  },
+  {
+   "crypto_id": 33223,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 298,
+   "symbol": "LAB",
+   "volume_usd": 21735083.314696383
+  },
+  {
+   "crypto_id": 42381,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 299,
+   "symbol": "SECZ",
+   "volume_usd": 21347995.62545821
+  },
+  {
+   "crypto_id": 7950,
+   "exchanges": 7,
+   "markets": 7,
+   "rank": 300,
+   "symbol": "FLR",
+   "volume_usd": 21322263.61752978
+  },
+  {
+   "crypto_id": 31525,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 301,
+   "symbol": "TAIKO",
+   "volume_usd": 21183340.40928642
+  },
+  {
+   "crypto_id": 36300,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 302,
+   "symbol": "SKYAI",
+   "volume_usd": 20920474.044889204
   },
   {
    "crypto_id": 40016,
    "exchanges": 16,
    "markets": 16,
-   "rank": 298,
+   "rank": 303,
    "symbol": "BRKB",
-   "volume_usd": 21594219.478543814
-  },
-  {
-   "crypto_id": 42373,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 299,
-   "symbol": "RUM",
-   "volume_usd": 21583588.65589167
-  },
-  {
-   "crypto_id": 38376,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 300,
-   "symbol": "EVAA",
-   "volume_usd": 21580572.3345815
+   "volume_usd": 20920150.909516755
   },
   {
    "crypto_id": 3964,
    "exchanges": 15,
    "markets": 15,
-   "rank": 301,
+   "rank": 304,
    "symbol": "RSR",
-   "volume_usd": 21182394.476149365
+   "volume_usd": 20895113.808059
   },
   {
-   "crypto_id": 38515,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 302,
-   "symbol": "2Z",
-   "volume_usd": 21100052.284829162
-  },
-  {
-   "crypto_id": 36569,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 303,
-   "symbol": "SPK",
-   "volume_usd": 21069656.917839147
-  },
-  {
-   "crypto_id": 40982,
+   "crypto_id": 41950,
    "exchanges": 15,
    "markets": 15,
-   "rank": 304,
-   "symbol": "KO",
-   "volume_usd": 21008803.079464477
-  },
-  {
-   "crypto_id": 38561,
-   "exchanges": 13,
-   "markets": 13,
    "rank": 305,
-   "symbol": "LYN",
-   "volume_usd": 20971791.84658191
-  },
-  {
-   "crypto_id": 39545,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 306,
-   "symbol": "BILL",
-   "volume_usd": 20897722.874145027
+   "symbol": "TEM",
+   "volume_usd": 20468034.48754409
   },
   {
    "crypto_id": 40222,
    "exchanges": 15,
    "markets": 15,
-   "rank": 307,
+   "rank": 306,
    "symbol": "DKNG",
-   "volume_usd": 20527262.246945992
+   "volume_usd": 20466762.87204855
   },
   {
-   "crypto_id": 40757,
-   "exchanges": 1,
-   "markets": 1,
+   "crypto_id": 37044,
+   "exchanges": 4,
+   "markets": 4,
+   "rank": 307,
+   "symbol": "TQQQX",
+   "volume_usd": 20458975.62543944
+  },
+  {
+   "crypto_id": 7080,
+   "exchanges": 15,
+   "markets": 15,
    "rank": 308,
-   "symbol": "GOOGL",
-   "volume_usd": 19976726.82521741
+   "symbol": "GALA",
+   "volume_usd": 20428902.559275113
   },
   {
    "crypto_id": 13631,
@@ -2470,543 +2470,543 @@
    "markets": 17,
    "rank": 309,
    "symbol": "MANTA",
-   "volume_usd": 19591000.34406433
-  },
-  {
-   "crypto_id": 40175,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 310,
-   "symbol": "MUX",
-   "volume_usd": 19551013.53807413
-  },
-  {
-   "crypto_id": 31525,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 311,
-   "symbol": "TAIKO",
-   "volume_usd": 19196953.9145717
-  },
-  {
-   "crypto_id": 42766,
-   "exchanges": 8,
-   "markets": 8,
-   "rank": 312,
-   "symbol": "SOXX",
-   "volume_usd": 19118396.36897248
-  },
-  {
-   "crypto_id": 41950,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 313,
-   "symbol": "TEM",
-   "volume_usd": 19025920.636902373
-  },
-  {
-   "crypto_id": 37456,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 314,
-   "symbol": "OPEN",
-   "volume_usd": 18928419.63757813
-  },
-  {
-   "crypto_id": 33223,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 315,
-   "symbol": "LAB",
-   "volume_usd": 18810197.34623608
-  },
-  {
-   "crypto_id": 41982,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 316,
-   "symbol": "GPRO",
-   "volume_usd": 18782974.30628526
-  },
-  {
-   "crypto_id": 40802,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 317,
-   "symbol": "APLD",
-   "volume_usd": 18567420.706188675
-  },
-  {
-   "crypto_id": 37430,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 318,
-   "symbol": "TA",
-   "volume_usd": 18387915.390189447
-  },
-  {
-   "crypto_id": 7950,
-   "exchanges": 7,
-   "markets": 7,
-   "rank": 319,
-   "symbol": "FLR",
-   "volume_usd": 18346224.233472347
-  },
-  {
-   "crypto_id": 42370,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 320,
-   "symbol": "OKLO",
-   "volume_usd": 18014563.76908609
-  },
-  {
-   "crypto_id": 35766,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 321,
-   "symbol": "SIREN",
-   "volume_usd": 17902430.48268554
-  },
-  {
-   "crypto_id": 24647,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 322,
-   "symbol": "BERA",
-   "volume_usd": 17871988.652218506
-  },
-  {
-   "crypto_id": 4944,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 323,
-   "symbol": "TRB",
-   "volume_usd": 17811266.202919036
-  },
-  {
-   "crypto_id": 37044,
-   "exchanges": 4,
-   "markets": 4,
-   "rank": 324,
-   "symbol": "TQQQX",
-   "volume_usd": 17758696.73377389
-  },
-  {
-   "crypto_id": 40577,
-   "exchanges": 7,
-   "markets": 7,
-   "rank": 325,
-   "symbol": "KIOXIA",
-   "volume_usd": 17641435.411895283
-  },
-  {
-   "crypto_id": 30495,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 326,
-   "symbol": "MON",
-   "volume_usd": 17621355.63953115
-  },
-  {
-   "crypto_id": 40042,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 327,
-   "symbol": "EWT",
-   "volume_usd": 17604212.142002374
+   "volume_usd": 20264462.395266335
   },
   {
    "crypto_id": 6783,
    "exchanges": 16,
    "markets": 16,
-   "rank": 328,
+   "rank": 310,
    "symbol": "AXS",
-   "volume_usd": 17579916.492153287
+   "volume_usd": 20056959.0863727
   },
   {
-   "crypto_id": 40007,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 329,
-   "symbol": "FLNC",
-   "volume_usd": 17571286.926020727
-  },
-  {
-   "crypto_id": 40814,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 330,
-   "symbol": "GRVT",
-   "volume_usd": 17516742.135098547
-  },
-  {
-   "crypto_id": 23254,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 331,
-   "symbol": "CORE",
-   "volume_usd": 17500976.53321899
-  },
-  {
-   "crypto_id": 37414,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 332,
-   "symbol": "ESPORTS",
-   "volume_usd": 17456155.32953596
-  },
-  {
-   "crypto_id": 31374,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 333,
-   "symbol": "NIGHT",
-   "volume_usd": 17448030.36435599
-  },
-  {
-   "crypto_id": 11156,
+   "crypto_id": 42766,
    "exchanges": 8,
    "markets": 8,
-   "rank": 334,
-   "symbol": "ETHDYDX",
-   "volume_usd": 17278789.209295228
+   "rank": 311,
+   "symbol": "SOXX",
+   "volume_usd": 19875066.596241493
   },
   {
-   "crypto_id": 40106,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 335,
-   "symbol": "RDW",
-   "volume_usd": 17136453.95421366
-  },
-  {
-   "crypto_id": 1698,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 336,
-   "symbol": "ZEN",
-   "volume_usd": 17096205.66288332
-  },
-  {
-   "crypto_id": 20314,
-   "exchanges": 7,
-   "markets": 7,
-   "rank": 337,
-   "symbol": "LUNA",
-   "volume_usd": 17079618.08564616
-  },
-  {
-   "crypto_id": 7326,
+   "crypto_id": 40982,
    "exchanges": 15,
    "markets": 15,
-   "rank": 338,
-   "symbol": "DEXE",
-   "volume_usd": 16975345.216509506
+   "rank": 312,
+   "symbol": "KO",
+   "volume_usd": 19805743.949820332
   },
   {
-   "crypto_id": 39467,
-   "exchanges": 8,
-   "markets": 8,
-   "rank": 339,
-   "symbol": "XCU",
-   "volume_usd": 16937378.171248607
+   "crypto_id": 40175,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 313,
+   "symbol": "MUX",
+   "volume_usd": 19725228.44914102
   },
   {
-   "crypto_id": 42323,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 340,
-   "symbol": "CYPH",
-   "volume_usd": 16934852.59531638
-  },
-  {
-   "crypto_id": 7080,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 341,
-   "symbol": "GALA",
-   "volume_usd": 16853747.7736983
-  },
-  {
-   "crypto_id": 38470,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 342,
-   "symbol": "GIGGLE",
-   "volume_usd": 16822891.511526387
-  },
-  {
-   "crypto_id": 38634,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 343,
-   "symbol": "CLO",
-   "volume_usd": 16795898.691323005
-  },
-  {
-   "crypto_id": 38356,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 344,
-   "symbol": "FOGO",
-   "volume_usd": 16790464.925601304
-  },
-  {
-   "crypto_id": 38339,
+   "crypto_id": 38515,
    "exchanges": 17,
    "markets": 17,
-   "rank": 345,
-   "symbol": "UB",
-   "volume_usd": 16677137.913810497
-  },
-  {
-   "crypto_id": 32684,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 346,
-   "symbol": "S",
-   "volume_usd": 16665322.179757807
-  },
-  {
-   "crypto_id": 3077,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 347,
-   "symbol": "VET",
-   "volume_usd": 16618730.141058128
-  },
-  {
-   "crypto_id": 36133,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 348,
-   "symbol": "HOME",
-   "volume_usd": 16565652.48167592
-  },
-  {
-   "crypto_id": 8646,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 349,
-   "symbol": "MINA",
-   "volume_usd": 16449796.303616926
-  },
-  {
-   "crypto_id": 39387,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 350,
-   "symbol": "ELSA",
-   "volume_usd": 16025960.57583454
-  },
-  {
-   "crypto_id": 40008,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 351,
-   "symbol": "ZEST",
-   "volume_usd": 16009643.73208312
+   "rank": 314,
+   "symbol": "2Z",
+   "volume_usd": 19678772.740267884
   },
   {
    "crypto_id": 2130,
    "exchanges": 11,
    "markets": 11,
-   "rank": 352,
+   "rank": 315,
    "symbol": "ENJ",
-   "volume_usd": 15930160.695729282
+   "volume_usd": 19643212.10506761
   },
   {
-   "crypto_id": 35763,
+   "crypto_id": 40015,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 316,
+   "symbol": "WMT",
+   "volume_usd": 19630469.008264545
+  },
+  {
+   "crypto_id": 39467,
+   "exchanges": 8,
+   "markets": 8,
+   "rank": 317,
+   "symbol": "XCU",
+   "volume_usd": 19583635.885334052
+  },
+  {
+   "crypto_id": 4944,
    "exchanges": 18,
-   "markets": 21,
-   "rank": 353,
-   "symbol": "KAITO",
-   "volume_usd": 15929059.499520719
+   "markets": 18,
+   "rank": 318,
+   "symbol": "TRB",
+   "volume_usd": 19299525.597894993
+  },
+  {
+   "crypto_id": 41982,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 319,
+   "symbol": "GPRO",
+   "volume_usd": 19219368.27836924
+  },
+  {
+   "crypto_id": 1698,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 320,
+   "symbol": "ZEN",
+   "volume_usd": 19025202.35638709
+  },
+  {
+   "crypto_id": 7326,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 321,
+   "symbol": "DEXE",
+   "volume_usd": 18990221.43243339
   },
   {
    "crypto_id": 38062,
    "exchanges": 1,
    "markets": 1,
-   "rank": 354,
+   "rank": 322,
    "symbol": "AVGOON",
-   "volume_usd": 15760022.2449008
+   "volume_usd": 18762045.44931869
   },
   {
-   "crypto_id": 30843,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 355,
-   "symbol": "REZ",
-   "volume_usd": 15627235.807397451
-  },
-  {
-   "crypto_id": 42642,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 356,
-   "symbol": "PREDICT",
-   "volume_usd": 15597553.88079992
-  },
-  {
-   "crypto_id": 42700,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 357,
-   "symbol": "MELI",
-   "volume_usd": 15572421.029136611
-  },
-  {
-   "crypto_id": 40828,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 358,
-   "symbol": "BNC",
-   "volume_usd": 15511699.08351701
-  },
-  {
-   "crypto_id": 6841,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 359,
-   "symbol": "PHA",
-   "volume_usd": 15447098.993618973
-  },
-  {
-   "crypto_id": 40913,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 360,
-   "symbol": "BITO",
-   "volume_usd": 15328562.76730347
-  },
-  {
-   "crypto_id": 40003,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 361,
-   "symbol": "PURR",
-   "volume_usd": 15276986.417414006
-  },
-  {
-   "crypto_id": 5488,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 362,
-   "symbol": "JST",
-   "volume_usd": 15192688.221587708
-  },
-  {
-   "crypto_id": 38089,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 363,
-   "symbol": "MRVLON",
-   "volume_usd": 14946572.83083817
-  },
-  {
-   "crypto_id": 33566,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 364,
-   "symbol": "ACT",
-   "volume_usd": 14855379.61339812
-  },
-  {
-   "crypto_id": 33788,
-   "exchanges": 18,
-   "markets": 20,
-   "rank": 365,
-   "symbol": "PNUT",
-   "volume_usd": 14797031.68692904
-  },
-  {
-   "crypto_id": 13855,
+   "crypto_id": 39545,
    "exchanges": 20,
    "markets": 20,
-   "rank": 366,
-   "symbol": "ENS",
-   "volume_usd": 14724221.751586841
+   "rank": 323,
+   "symbol": "BILL",
+   "volume_usd": 18741631.822923187
   },
   {
-   "crypto_id": 41949,
+   "crypto_id": 36044,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 324,
+   "symbol": "NXPC",
+   "volume_usd": 18579425.85009241
+  },
+  {
+   "crypto_id": 38339,
    "exchanges": 17,
    "markets": 17,
-   "rank": 367,
-   "symbol": "IONQ",
-   "volume_usd": 14644295.059178282
+   "rank": 325,
+   "symbol": "UB",
+   "volume_usd": 18326433.701316506
   },
   {
-   "crypto_id": 40065,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 368,
-   "symbol": "CRWD",
-   "volume_usd": 14256426.822050638
+   "crypto_id": 3077,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 326,
+   "symbol": "VET",
+   "volume_usd": 18197557.4979402
+  },
+  {
+   "crypto_id": 40814,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 327,
+   "symbol": "GRVT",
+   "volume_usd": 18054840.417986423
+  },
+  {
+   "crypto_id": 40008,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 328,
+   "symbol": "ZEST",
+   "volume_usd": 18043118.85130231
+  },
+  {
+   "crypto_id": 40802,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 329,
+   "symbol": "APLD",
+   "volume_usd": 17952656.45087545
+  },
+  {
+   "crypto_id": 24647,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 330,
+   "symbol": "BERA",
+   "volume_usd": 17887532.95252456
+  },
+  {
+   "crypto_id": 40577,
+   "exchanges": 7,
+   "markets": 7,
+   "rank": 331,
+   "symbol": "KIOXIA",
+   "volume_usd": 17813764.41157762
+  },
+  {
+   "crypto_id": 20314,
+   "exchanges": 7,
+   "markets": 7,
+   "rank": 332,
+   "symbol": "LUNA",
+   "volume_usd": 17794972.679672603
   },
   {
    "crypto_id": 27565,
    "exchanges": 18,
    "markets": 18,
-   "rank": 369,
+   "rank": 333,
    "symbol": "ARKM",
-   "volume_usd": 14250285.89477244
+   "volume_usd": 17672874.85522041
   },
   {
-   "crypto_id": 37014,
+   "crypto_id": 42373,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 334,
+   "symbol": "RUM",
+   "volume_usd": 17646318.0075729
+  },
+  {
+   "crypto_id": 38089,
    "exchanges": 2,
    "markets": 2,
-   "rank": 370,
-   "symbol": "AMZNX",
-   "volume_usd": 14137169.61752714
+   "rank": 335,
+   "symbol": "MRVLON",
+   "volume_usd": 17596552.46296499
   },
   {
-   "crypto_id": 38669,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 371,
-   "symbol": "RECALL",
-   "volume_usd": 14126439.310076129
+   "crypto_id": 5488,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 336,
+   "symbol": "JST",
+   "volume_usd": 17586884.8956813
   },
   {
-   "crypto_id": 5864,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 372,
-   "symbol": "YFI",
-   "volume_usd": 14085110.10115235
-  },
-  {
-   "crypto_id": 40092,
+   "crypto_id": 40042,
    "exchanges": 17,
    "markets": 17,
-   "rank": 373,
-   "symbol": "O",
-   "volume_usd": 13764469.15166578
+   "rank": 337,
+   "symbol": "EWT",
+   "volume_usd": 17527922.42504164
   },
   {
-   "crypto_id": 9285,
+   "crypto_id": 42370,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 338,
+   "symbol": "OKLO",
+   "volume_usd": 17505721.073679768
+  },
+  {
+   "crypto_id": 35763,
+   "exchanges": 18,
+   "markets": 21,
+   "rank": 339,
+   "symbol": "KAITO",
+   "volume_usd": 17469797.564966664
+  },
+  {
+   "crypto_id": 8646,
    "exchanges": 14,
    "markets": 14,
-   "rank": 374,
-   "symbol": "MOVR",
-   "volume_usd": 13748533.197738187
+   "rank": 340,
+   "symbol": "MINA",
+   "volume_usd": 17333048.256803453
   },
   {
-   "crypto_id": 38869,
+   "crypto_id": 40007,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 341,
+   "symbol": "FLNC",
+   "volume_usd": 17317846.271715388
+  },
+  {
+   "crypto_id": 37414,
    "exchanges": 13,
    "markets": 13,
-   "rank": 375,
-   "symbol": "US",
-   "volume_usd": 13744228.01374929
+   "rank": 342,
+   "symbol": "ESPORTS",
+   "volume_usd": 17189472.283066075
+  },
+  {
+   "crypto_id": 32684,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 343,
+   "symbol": "S",
+   "volume_usd": 17113444.577212542
+  },
+  {
+   "crypto_id": 38470,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 344,
+   "symbol": "GIGGLE",
+   "volume_usd": 17099654.48582528
+  },
+  {
+   "crypto_id": 38356,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 345,
+   "symbol": "FOGO",
+   "volume_usd": 16989721.404727943
   },
   {
    "crypto_id": 5066,
    "exchanges": 6,
    "markets": 6,
-   "rank": 376,
+   "rank": 346,
    "symbol": "MON",
-   "volume_usd": 13727253.638693249
+   "volume_usd": 16944645.32874236
+  },
+  {
+   "crypto_id": 37430,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 347,
+   "symbol": "TA",
+   "volume_usd": 16888363.49731278
+  },
+  {
+   "crypto_id": 42642,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 348,
+   "symbol": "PREDICT",
+   "volume_usd": 16812722.739993125
+  },
+  {
+   "crypto_id": 11156,
+   "exchanges": 8,
+   "markets": 8,
+   "rank": 349,
+   "symbol": "ETHDYDX",
+   "volume_usd": 16795209.80177101
+  },
+  {
+   "crypto_id": 31374,
+   "exchanges": 2,
+   "markets": 2,
+   "rank": 350,
+   "symbol": "NIGHT",
+   "volume_usd": 16771930.77819132
+  },
+  {
+   "crypto_id": 23254,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 351,
+   "symbol": "CORE",
+   "volume_usd": 16586479.325951532
+  },
+  {
+   "crypto_id": 42700,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 352,
+   "symbol": "MELI",
+   "volume_usd": 16456801.06045099
+  },
+  {
+   "crypto_id": 13855,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 353,
+   "symbol": "ENS",
+   "volume_usd": 16453594.71738812
+  },
+  {
+   "crypto_id": 40828,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 354,
+   "symbol": "BNC",
+   "volume_usd": 16346271.015438672
+  },
+  {
+   "crypto_id": 40106,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 355,
+   "symbol": "RDW",
+   "volume_usd": 16199982.846150162
+  },
+  {
+   "crypto_id": 38634,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 356,
+   "symbol": "CLO",
+   "volume_usd": 16162815.28910299
+  },
+  {
+   "crypto_id": 5864,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 357,
+   "symbol": "YFI",
+   "volume_usd": 16104217.782239903
+  },
+  {
+   "crypto_id": 42323,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 358,
+   "symbol": "CYPH",
+   "volume_usd": 16103635.27562905
+  },
+  {
+   "crypto_id": 30843,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 359,
+   "symbol": "REZ",
+   "volume_usd": 16069670.474862752
+  },
+  {
+   "crypto_id": 35766,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 360,
+   "symbol": "SIREN",
+   "volume_usd": 15804326.777566312
+  },
+  {
+   "crypto_id": 33788,
+   "exchanges": 18,
+   "markets": 20,
+   "rank": 361,
+   "symbol": "PNUT",
+   "volume_usd": 15700803.460203065
+  },
+  {
+   "crypto_id": 40913,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 362,
+   "symbol": "BITO",
+   "volume_usd": 15655513.079468293
+  },
+  {
+   "crypto_id": 37456,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 363,
+   "symbol": "OPEN",
+   "volume_usd": 15542171.507723821
+  },
+  {
+   "crypto_id": 9285,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 364,
+   "symbol": "MOVR",
+   "volume_usd": 15520480.399265831
+  },
+  {
+   "crypto_id": 37014,
+   "exchanges": 2,
+   "markets": 2,
+   "rank": 365,
+   "symbol": "AMZNX",
+   "volume_usd": 15438493.31952411
+  },
+  {
+   "crypto_id": 36133,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 366,
+   "symbol": "HOME",
+   "volume_usd": 15328045.01719482
+  },
+  {
+   "crypto_id": 39387,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 367,
+   "symbol": "ELSA",
+   "volume_usd": 15327684.3699346
+  },
+  {
+   "crypto_id": 38869,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 368,
+   "symbol": "US",
+   "volume_usd": 15133762.635723948
+  },
+  {
+   "crypto_id": 38561,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 369,
+   "symbol": "LYN",
+   "volume_usd": 15102868.844956221
+  },
+  {
+   "crypto_id": 40065,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 370,
+   "symbol": "CRWD",
+   "volume_usd": 15029523.621902952
+  },
+  {
+   "crypto_id": 33566,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 371,
+   "symbol": "ACT",
+   "volume_usd": 15023579.908788621
+  },
+  {
+   "crypto_id": 7334,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 372,
+   "symbol": "CFX",
+   "volume_usd": 14964653.49037187
+  },
+  {
+   "crypto_id": 41949,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 373,
+   "symbol": "IONQ",
+   "volume_usd": 14951394.72284578
+  },
+  {
+   "crypto_id": 40003,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 374,
+   "symbol": "PURR",
+   "volume_usd": 14881185.220220258
+  },
+  {
+   "crypto_id": 1376,
+   "exchanges": 17,
+   "markets": 19,
+   "rank": 375,
+   "symbol": "NEO",
+   "volume_usd": 14737074.80636028
+  },
+  {
+   "crypto_id": 38669,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 376,
+   "symbol": "RECALL",
+   "volume_usd": 14679300.8715292
   },
   {
    "crypto_id": 2405,
@@ -3014,183 +3014,183 @@
    "markets": 14,
    "rank": 377,
    "symbol": "IOST",
-   "volume_usd": 13650397.759121077
-  },
-  {
-   "crypto_id": 41771,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 378,
-   "symbol": "NET",
-   "volume_usd": 13610298.35264669
-  },
-  {
-   "crypto_id": 40111,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 379,
-   "symbol": "NOW",
-   "volume_usd": 13524703.691219637
-  },
-  {
-   "crypto_id": 1376,
-   "exchanges": 17,
-   "markets": 19,
-   "rank": 380,
-   "symbol": "NEO",
-   "volume_usd": 13466222.090945998
-  },
-  {
-   "crypto_id": 1586,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 381,
-   "symbol": "ARK",
-   "volume_usd": 13409489.92178818
-  },
-  {
-   "crypto_id": 40822,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 382,
-   "symbol": "PENG",
-   "volume_usd": 13276993.622894041
-  },
-  {
-   "crypto_id": 36063,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 383,
-   "symbol": "BR",
-   "volume_usd": 13276577.17140609
-  },
-  {
-   "crypto_id": 29555,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 384,
-   "symbol": "PORTAL",
-   "volume_usd": 13254168.04339254
-  },
-  {
-   "crypto_id": 28850,
-   "exchanges": 22,
-   "markets": 22,
-   "rank": 385,
-   "symbol": "NOT",
-   "volume_usd": 13241405.467852091
-  },
-  {
-   "crypto_id": 40680,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 386,
-   "symbol": "TER",
-   "volume_usd": 13222242.155518223
-  },
-  {
-   "crypto_id": 40547,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 387,
-   "symbol": "LRCX",
-   "volume_usd": 13209113.899720559
-  },
-  {
-   "crypto_id": 34285,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 388,
-   "symbol": "CLANKER",
-   "volume_usd": 13208722.942107828
-  },
-  {
-   "crypto_id": 36369,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 389,
-   "symbol": "HAEDAL",
-   "volume_usd": 13063299.058321808
-  },
-  {
-   "crypto_id": 5692,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 390,
-   "symbol": "COMP",
-   "volume_usd": 13042255.11516698
-  },
-  {
-   "crypto_id": 38029,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 391,
-   "symbol": "TSLAON",
-   "volume_usd": 12880175.39829193
-  },
-  {
-   "crypto_id": 39564,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 392,
-   "symbol": "OPN",
-   "volume_usd": 12847518.019893039
-  },
-  {
-   "crypto_id": 40942,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 393,
-   "symbol": "GS",
-   "volume_usd": 12815757.38445467
-  },
-  {
-   "crypto_id": 37495,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 394,
-   "symbol": "TREE",
-   "volume_usd": 12698821.416001381
-  },
-  {
-   "crypto_id": 41944,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 395,
-   "symbol": "TSLL",
-   "volume_usd": 12675360.078637248
-  },
-  {
-   "crypto_id": 38056,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 396,
-   "symbol": "CRCLON",
-   "volume_usd": 12669516.66953484
-  },
-  {
-   "crypto_id": 35600,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 397,
-   "symbol": "SIGN",
-   "volume_usd": 12645546.22137258
+   "volume_usd": 14649928.065643622
   },
   {
    "crypto_id": 37166,
    "exchanges": 12,
    "markets": 12,
-   "rank": 398,
+   "rank": 378,
    "symbol": "ONE",
-   "volume_usd": 12587389.182311188
+   "volume_usd": 14615579.30805143
+  },
+  {
+   "crypto_id": 38029,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 379,
+   "symbol": "TSLAON",
+   "volume_usd": 14603396.77260112
+  },
+  {
+   "crypto_id": 39564,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 380,
+   "symbol": "OPN",
+   "volume_usd": 14345389.953493202
+  },
+  {
+   "crypto_id": 38466,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 381,
+   "symbol": "BLESS",
+   "volume_usd": 14174358.096549572
+  },
+  {
+   "crypto_id": 14806,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 382,
+   "symbol": "PEOPLE",
+   "volume_usd": 14119723.82958937
+  },
+  {
+   "crypto_id": 36369,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 383,
+   "symbol": "HAEDAL",
+   "volume_usd": 14055341.2392537
+  },
+  {
+   "crypto_id": 5692,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 384,
+   "symbol": "COMP",
+   "volume_usd": 13984950.37589195
+  },
+  {
+   "crypto_id": 38056,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 385,
+   "symbol": "CRCLON",
+   "volume_usd": 13850274.45631755
+  },
+  {
+   "crypto_id": 29335,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 386,
+   "symbol": "PIXEL",
+   "volume_usd": 13814348.59678275
+  },
+  {
+   "crypto_id": 1586,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 387,
+   "symbol": "ARK",
+   "volume_usd": 13769424.016050588
+  },
+  {
+   "crypto_id": 40951,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 388,
+   "symbol": "AGPU",
+   "volume_usd": 13697545.36952183
+  },
+  {
+   "crypto_id": 10804,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 389,
+   "symbol": "FLOKI",
+   "volume_usd": 13668073.475386793
   },
   {
    "crypto_id": 34125,
    "exchanges": 14,
    "markets": 14,
-   "rank": 399,
+   "rank": 390,
    "symbol": "CHILLGUY",
-   "volume_usd": 12580679.229364272
+   "volume_usd": 13578157.662305119
+  },
+  {
+   "crypto_id": 34285,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 391,
+   "symbol": "CLANKER",
+   "volume_usd": 13571368.06469818
+  },
+  {
+   "crypto_id": 41771,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 392,
+   "symbol": "NET",
+   "volume_usd": 13525936.8766464
+  },
+  {
+   "crypto_id": 29555,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 393,
+   "symbol": "PORTAL",
+   "volume_usd": 13411137.89072273
+  },
+  {
+   "crypto_id": 40822,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 394,
+   "symbol": "PENG",
+   "volume_usd": 13340704.2283772
+  },
+  {
+   "crypto_id": 35600,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 395,
+   "symbol": "SIGN",
+   "volume_usd": 13297676.605411611
+  },
+  {
+   "crypto_id": 33038,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 396,
+   "symbol": "SKY",
+   "volume_usd": 13271817.381013133
+  },
+  {
+   "crypto_id": 28782,
+   "exchanges": 20,
+   "markets": 21,
+   "rank": 397,
+   "symbol": "POPCAT",
+   "volume_usd": 13135339.301045429
+  },
+  {
+   "crypto_id": 40111,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 398,
+   "symbol": "NOW",
+   "volume_usd": 13023257.815108871
+  },
+  {
+   "crypto_id": 36063,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 399,
+   "symbol": "BR",
+   "volume_usd": 13001678.66557834
   },
   {
    "crypto_id": 38769,
@@ -3198,335 +3198,335 @@
    "markets": 16,
    "rank": 400,
    "symbol": "KAT",
-   "volume_usd": 12435699.056105219
-  },
-  {
-   "crypto_id": 33979,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 401,
-   "symbol": "USUAL",
-   "volume_usd": 12424564.221432388
-  },
-  {
-   "crypto_id": 7334,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 402,
-   "symbol": "CFX",
-   "volume_usd": 12406764.53812928
-  },
-  {
-   "crypto_id": 32198,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 403,
-   "symbol": "BABY",
-   "volume_usd": 12366211.42661921
-  },
-  {
-   "crypto_id": 32197,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 404,
-   "symbol": "ME",
-   "volume_usd": 12362024.80186801
-  },
-  {
-   "crypto_id": 32698,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 405,
-   "symbol": "DOGS",
-   "volume_usd": 12327012.929553352
-  },
-  {
-   "crypto_id": 39998,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 406,
-   "symbol": "DIS",
-   "volume_usd": 12312037.46765293
-  },
-  {
-   "crypto_id": 32809,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 407,
-   "symbol": "ORDER",
-   "volume_usd": 12186049.981007472
-  },
-  {
-   "crypto_id": 36492,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 408,
-   "symbol": "ACU",
-   "volume_usd": 12181003.612363301
+   "volume_usd": 12965097.110493567
   },
   {
    "crypto_id": 39812,
    "exchanges": 19,
    "markets": 19,
-   "rank": 409,
+   "rank": 401,
    "symbol": "BASED",
-   "volume_usd": 12156919.023878325
+   "volume_usd": 12959961.73855919
   },
   {
-   "crypto_id": 14806,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 410,
-   "symbol": "PEOPLE",
-   "volume_usd": 12146192.996897401
-  },
-  {
-   "crypto_id": 39685,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 411,
-   "symbol": "EWJ",
-   "volume_usd": 12036485.8516587
-  },
-  {
-   "crypto_id": 33038,
+   "crypto_id": 32197,
    "exchanges": 16,
    "markets": 16,
-   "rank": 412,
-   "symbol": "SKY",
-   "volume_usd": 11848527.30697681
-  },
-  {
-   "crypto_id": 40227,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 413,
-   "symbol": "CIEN",
-   "volume_usd": 11776755.689267753
-  },
-  {
-   "crypto_id": 36119,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 414,
-   "symbol": "WAL",
-   "volume_usd": 11621793.900062801
-  },
-  {
-   "crypto_id": 10804,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 415,
-   "symbol": "FLOKI",
-   "volume_usd": 11619744.075657321
-  },
-  {
-   "crypto_id": 40047,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 416,
-   "symbol": "SLX",
-   "volume_usd": 11584731.85077939
-  },
-  {
-   "crypto_id": 29335,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 417,
-   "symbol": "PIXEL",
-   "volume_usd": 11528122.43241614
-  },
-  {
-   "crypto_id": 42525,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 418,
-   "symbol": "AXIS",
-   "volume_usd": 11505318.13894427
-  },
-  {
-   "crypto_id": 28782,
-   "exchanges": 20,
-   "markets": 21,
-   "rank": 419,
-   "symbol": "POPCAT",
-   "volume_usd": 11497447.20983598
+   "rank": 402,
+   "symbol": "ME",
+   "volume_usd": 12956837.696211701
   },
   {
    "crypto_id": 11165,
    "exchanges": 16,
    "markets": 16,
-   "rank": 420,
+   "rank": 403,
    "symbol": "ORCA",
-   "volume_usd": 11336934.9940177
+   "volume_usd": 12937480.76778908
   },
   {
-   "crypto_id": 34083,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 421,
-   "symbol": "ZEREBRO",
-   "volume_usd": 11297465.91161169
+   "crypto_id": 36119,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 404,
+   "symbol": "WAL",
+   "volume_usd": 12860932.836848632
   },
   {
-   "crypto_id": 41782,
+   "crypto_id": 40547,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 405,
+   "symbol": "LRCX",
+   "volume_usd": 12689394.117720008
+  },
+  {
+   "crypto_id": 32809,
    "exchanges": 15,
    "markets": 15,
-   "rank": 422,
-   "symbol": "NAVER",
-   "volume_usd": 11294442.031460727
+   "rank": 406,
+   "symbol": "ORDER",
+   "volume_usd": 12658950.355598819
   },
   {
-   "crypto_id": 10052,
-   "exchanges": 5,
-   "markets": 5,
-   "rank": 423,
-   "symbol": "GTC",
-   "volume_usd": 11271972.49648723
-  },
-  {
-   "crypto_id": 23121,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 424,
-   "symbol": "BLUR",
-   "volume_usd": 11213549.221868701
-  },
-  {
-   "crypto_id": 38668,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 425,
-   "symbol": "ENSO",
-   "volume_usd": 11119938.167911697
-  },
-  {
-   "crypto_id": 35626,
-   "exchanges": 15,
-   "markets": 17,
-   "rank": 426,
-   "symbol": "DATA",
-   "volume_usd": 11105851.930887291
-  },
-  {
-   "crypto_id": 29743,
+   "crypto_id": 41944,
    "exchanges": 18,
    "markets": 18,
-   "rank": 427,
-   "symbol": "BRETT",
-   "volume_usd": 11021989.911835652
-  },
-  {
-   "crypto_id": 38427,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 428,
-   "symbol": "ZBT",
-   "volume_usd": 10980474.906677231
-  },
-  {
-   "crypto_id": 38889,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 429,
-   "symbol": "BSB",
-   "volume_usd": 10920237.355735391
-  },
-  {
-   "crypto_id": 39379,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 430,
-   "symbol": "GWEI",
-   "volume_usd": 10839002.54377175
-  },
-  {
-   "crypto_id": 38466,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 431,
-   "symbol": "BLESS",
-   "volume_usd": 10679249.628282541
-  },
-  {
-   "crypto_id": 40951,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 432,
-   "symbol": "AGPU",
-   "volume_usd": 10678311.28101918
-  },
-  {
-   "crypto_id": 1637,
-   "exchanges": 7,
-   "markets": 7,
-   "rank": 433,
-   "symbol": "RLC",
-   "volume_usd": 10642299.11064133
+   "rank": 407,
+   "symbol": "TSLL",
+   "volume_usd": 12645353.082991868
   },
   {
    "crypto_id": 1732,
    "exchanges": 17,
    "markets": 17,
-   "rank": 434,
+   "rank": 408,
    "symbol": "NMR",
-   "volume_usd": 10512964.87373048
+   "volume_usd": 12593051.269698922
+  },
+  {
+   "crypto_id": 42371,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 409,
+   "symbol": "TWST",
+   "volume_usd": 12476795.9389488
+  },
+  {
+   "crypto_id": 40092,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 410,
+   "symbol": "O",
+   "volume_usd": 12464196.946934963
+  },
+  {
+   "crypto_id": 37495,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 411,
+   "symbol": "TREE",
+   "volume_usd": 12400723.5656336
+  },
+  {
+   "crypto_id": 42525,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 412,
+   "symbol": "AXIS",
+   "volume_usd": 12368106.641584609
+  },
+  {
+   "crypto_id": 40680,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 413,
+   "symbol": "TER",
+   "volume_usd": 12113517.000395661
+  },
+  {
+   "crypto_id": 38427,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 414,
+   "symbol": "ZBT",
+   "volume_usd": 12105904.851328319
+  },
+  {
+   "crypto_id": 6841,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 415,
+   "symbol": "PHA",
+   "volume_usd": 12065562.971688291
+  },
+  {
+   "crypto_id": 12885,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 416,
+   "symbol": "ASTR",
+   "volume_usd": 12062902.23251365
+  },
+  {
+   "crypto_id": 2776,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 417,
+   "symbol": "AVA",
+   "volume_usd": 12018699.875057569
   },
   {
    "crypto_id": 38868,
    "exchanges": 17,
    "markets": 17,
-   "rank": 435,
+   "rank": 418,
    "symbol": "SENT",
-   "volume_usd": 10502769.515506748
+   "volume_usd": 12002484.29634252
   },
   {
-   "crypto_id": 10603,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 436,
-   "symbol": "IMX",
-   "volume_usd": 10497147.138389718
+   "crypto_id": 38967,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 419,
+   "symbol": "RAVE",
+   "volume_usd": 11932867.202956408
   },
   {
-   "crypto_id": 39672,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 437,
-   "symbol": "HANMI",
-   "volume_usd": 10349335.39546416
-  },
-  {
-   "crypto_id": 38482,
+   "crypto_id": 1966,
    "exchanges": 16,
    "markets": 16,
-   "rank": 438,
-   "symbol": "FF",
-   "volume_usd": 10172943.86884129
+   "rank": 420,
+   "symbol": "MANA",
+   "volume_usd": 11881797.501499722
   },
   {
-   "crypto_id": 40575,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 439,
-   "symbol": "WEN",
-   "volume_usd": 10151735.392247738
+   "crypto_id": 38668,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 421,
+   "symbol": "ENSO",
+   "volume_usd": 11863780.0222814
+  },
+  {
+   "crypto_id": 28850,
+   "exchanges": 22,
+   "markets": 22,
+   "rank": 422,
+   "symbol": "NOT",
+   "volume_usd": 11828325.177377136
+  },
+  {
+   "crypto_id": 36510,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 423,
+   "symbol": "LA",
+   "volume_usd": 11749478.858640388
+  },
+  {
+   "crypto_id": 40047,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 424,
+   "symbol": "SLX",
+   "volume_usd": 11725226.338829068
+  },
+  {
+   "crypto_id": 29743,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 425,
+   "symbol": "BRETT",
+   "volume_usd": 11654765.704548411
   },
   {
    "crypto_id": 2132,
    "exchanges": 14,
    "markets": 14,
-   "rank": 440,
+   "rank": 426,
    "symbol": "POWR",
-   "volume_usd": 9986695.34449973
+   "volume_usd": 11643646.90303158
+  },
+  {
+   "crypto_id": 23121,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 427,
+   "symbol": "BLUR",
+   "volume_usd": 11591702.40921724
+  },
+  {
+   "crypto_id": 34083,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 428,
+   "symbol": "ZEREBRO",
+   "volume_usd": 11566288.918235563
+  },
+  {
+   "crypto_id": 39685,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 429,
+   "symbol": "EWJ",
+   "volume_usd": 11547455.65397579
+  },
+  {
+   "crypto_id": 10052,
+   "exchanges": 5,
+   "markets": 5,
+   "rank": 430,
+   "symbol": "GTC",
+   "volume_usd": 11520672.60324667
+  },
+  {
+   "crypto_id": 40942,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 431,
+   "symbol": "GS",
+   "volume_usd": 11436085.285214612
+  },
+  {
+   "crypto_id": 1637,
+   "exchanges": 7,
+   "markets": 7,
+   "rank": 432,
+   "symbol": "RLC",
+   "volume_usd": 11394858.567369698
+  },
+  {
+   "crypto_id": 40227,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 433,
+   "symbol": "CIEN",
+   "volume_usd": 11270872.70482645
+  },
+  {
+   "crypto_id": 41782,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 434,
+   "symbol": "NAVER",
+   "volume_usd": 11137449.617098218
+  },
+  {
+   "crypto_id": 38482,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 435,
+   "symbol": "FF",
+   "volume_usd": 11096783.72094297
+  },
+  {
+   "crypto_id": 38178,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 436,
+   "symbol": "TRUTH",
+   "volume_usd": 11020647.639159419
+  },
+  {
+   "crypto_id": 35626,
+   "exchanges": 15,
+   "markets": 17,
+   "rank": 437,
+   "symbol": "DATA",
+   "volume_usd": 11017021.039705979
   },
   {
    "crypto_id": 6748,
    "exchanges": 17,
    "markets": 17,
-   "rank": 441,
+   "rank": 438,
    "symbol": "CFG",
-   "volume_usd": 9969336.64817468
+   "volume_usd": 11011669.901491981
+  },
+  {
+   "crypto_id": 6719,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 439,
+   "symbol": "GRT",
+   "volume_usd": 11008885.549453134
+  },
+  {
+   "crypto_id": 39379,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 440,
+   "symbol": "GWEI",
+   "volume_usd": 10952513.442253359
+  },
+  {
+   "crypto_id": 10603,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 441,
+   "symbol": "IMX",
+   "volume_usd": 10928244.261616582
   },
   {
    "crypto_id": 33439,
@@ -3534,199 +3534,199 @@
    "markets": 13,
    "rank": 442,
    "symbol": "LUMIA",
-   "volume_usd": 9959353.97976711
+   "volume_usd": 10863165.76396514
   },
   {
-   "crypto_id": 37562,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 443,
-   "symbol": "AIO",
-   "volume_usd": 9912600.967196127
-  },
-  {
-   "crypto_id": 1966,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 444,
-   "symbol": "MANA",
-   "volume_usd": 9863531.53624473
-  },
-  {
-   "crypto_id": 41869,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 445,
-   "symbol": "GDX",
-   "volume_usd": 9830709.589277368
-  },
-  {
-   "crypto_id": 38299,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 446,
-   "symbol": "AVNT",
-   "volume_usd": 9817402.264204852
-  },
-  {
-   "crypto_id": 2586,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 447,
-   "symbol": "SNX",
-   "volume_usd": 9804472.06934571
-  },
-  {
-   "crypto_id": 40888,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 448,
-   "symbol": "SOFI",
-   "volume_usd": 9786200.044351429
-  },
-  {
-   "crypto_id": 9640,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 449,
-   "symbol": "METIS",
-   "volume_usd": 9745582.901523871
-  },
-  {
-   "crypto_id": 34987,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 450,
-   "symbol": "FLOCK",
-   "volume_usd": 9737060.4009912
-  },
-  {
-   "crypto_id": 37055,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 451,
-   "symbol": "METAX",
-   "volume_usd": 9694271.3404586
-  },
-  {
-   "crypto_id": 36510,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 452,
-   "symbol": "LA",
-   "volume_usd": 9661168.310796628
-  },
-  {
-   "crypto_id": 6719,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 453,
-   "symbol": "GRT",
-   "volume_usd": 9636868.103064328
-  },
-  {
-   "crypto_id": 38967,
+   "crypto_id": 24911,
    "exchanges": 20,
    "markets": 20,
-   "rank": 454,
-   "symbol": "RAVE",
-   "volume_usd": 9594257.60699109
+   "rank": 443,
+   "symbol": "TURBO",
+   "volume_usd": 10835180.9098221
+  },
+  {
+   "crypto_id": 34118,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 444,
+   "symbol": "BANANAS31",
+   "volume_usd": 10833679.713179529
   },
   {
    "crypto_id": 38037,
    "exchanges": 2,
    "markets": 2,
-   "rank": 455,
+   "rank": 445,
    "symbol": "AAPLON",
-   "volume_usd": 9511249.23279554
+   "volume_usd": 10812354.3801587
+  },
+  {
+   "crypto_id": 9640,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 446,
+   "symbol": "METIS",
+   "volume_usd": 10642149.380671429
+  },
+  {
+   "crypto_id": 39998,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 447,
+   "symbol": "DIS",
+   "volume_usd": 10603261.536202872
+  },
+  {
+   "crypto_id": 38299,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 448,
+   "symbol": "AVNT",
+   "volume_usd": 10495474.668898279
+  },
+  {
+   "crypto_id": 35053,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 449,
+   "symbol": "PIPPIN",
+   "volume_usd": 10488304.133271718
+  },
+  {
+   "crypto_id": 32195,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 450,
+   "symbol": "HMSTR",
+   "volume_usd": 10466680.042280512
+  },
+  {
+   "crypto_id": 40681,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 451,
+   "symbol": "FLEX",
+   "volume_usd": 10425940.21150753
+  },
+  {
+   "crypto_id": 7431,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 452,
+   "symbol": "AKT",
+   "volume_usd": 10397740.956920728
+  },
+  {
+   "crypto_id": 37055,
+   "exchanges": 2,
+   "markets": 2,
+   "rank": 453,
+   "symbol": "METAX",
+   "volume_usd": 10296229.863168731
+  },
+  {
+   "crypto_id": 38889,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 454,
+   "symbol": "BSB",
+   "volume_usd": 10245237.017139342
+  },
+  {
+   "crypto_id": 6758,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 455,
+   "symbol": "SUSHI",
+   "volume_usd": 10218456.902079448
+  },
+  {
+   "crypto_id": 40575,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 456,
+   "symbol": "WEN",
+   "volume_usd": 10212748.84503272
+  },
+  {
+   "crypto_id": 34987,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 457,
+   "symbol": "FLOCK",
+   "volume_usd": 10084595.438601281
   },
   {
    "crypto_id": 17799,
    "exchanges": 15,
    "markets": 15,
-   "rank": 456,
-   "symbol": "AXL",
-   "volume_usd": 9509410.296031728
-  },
-  {
-   "crypto_id": 37593,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 457,
-   "symbol": "PROVE",
-   "volume_usd": 9498975.432260942
-  },
-  {
-   "crypto_id": 40105,
-   "exchanges": 6,
-   "markets": 6,
    "rank": 458,
-   "symbol": "BB",
-   "volume_usd": 9418877.01477232
+   "symbol": "AXL",
+   "volume_usd": 10043809.52983488
   },
   {
-   "crypto_id": 37338,
-   "exchanges": 14,
-   "markets": 14,
+   "crypto_id": 32198,
+   "exchanges": 11,
+   "markets": 11,
    "rank": 459,
-   "symbol": "TAC",
-   "volume_usd": 9372469.79607961
+   "symbol": "BABY",
+   "volume_usd": 10001508.74741337
   },
   {
-   "crypto_id": 42377,
+   "crypto_id": 8425,
    "exchanges": 14,
    "markets": 14,
    "rank": 460,
-   "symbol": "CRML",
-   "volume_usd": 9283247.1544824
+   "symbol": "JASMY",
+   "volume_usd": 9993562.992503569
+  },
+  {
+   "crypto_id": 40888,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 461,
+   "symbol": "SOFI",
+   "volume_usd": 9984416.66251815
   },
   {
    "crypto_id": 39071,
    "exchanges": 16,
    "markets": 16,
-   "rank": 461,
-   "symbol": "CYS",
-   "volume_usd": 9274899.023391759
-  },
-  {
-   "crypto_id": 10634,
-   "exchanges": 3,
-   "markets": 3,
    "rank": 462,
-   "symbol": "BTCDOM",
-   "volume_usd": 9272620.81427577
+   "symbol": "CYS",
+   "volume_usd": 9941233.602633482
   },
   {
-   "crypto_id": 39516,
+   "crypto_id": 38231,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 463,
+   "symbol": "MMT",
+   "volume_usd": 9896701.71304504
+  },
+  {
+   "crypto_id": 42378,
    "exchanges": 16,
    "markets": 16,
-   "rank": 463,
-   "symbol": "URNM",
-   "volume_usd": 9261327.575827781
-  },
-  {
-   "crypto_id": 39961,
-   "exchanges": 13,
-   "markets": 13,
    "rank": 464,
-   "symbol": "TENCENT",
-   "volume_usd": 9257668.9920918
+   "symbol": "BWET",
+   "volume_usd": 9877732.61542295
   },
   {
-   "crypto_id": 39631,
-   "exchanges": 14,
-   "markets": 14,
+   "crypto_id": 40694,
+   "exchanges": 1,
+   "markets": 1,
    "rank": 465,
-   "symbol": "CSCO",
-   "volume_usd": 9223964.036439601
+   "symbol": "SPY",
+   "volume_usd": 9867022.09664228
   },
   {
-   "crypto_id": 40089,
-   "exchanges": 12,
-   "markets": 12,
+   "crypto_id": 40105,
+   "exchanges": 6,
+   "markets": 6,
    "rank": 466,
-   "symbol": "VRT",
-   "volume_usd": 9154059.68732737
+   "symbol": "BB",
+   "volume_usd": 9790682.76442323
   },
   {
    "crypto_id": 2469,
@@ -3734,1074 +3734,1074 @@
    "markets": 10,
    "rank": 467,
    "symbol": "ZIL",
-   "volume_usd": 9104719.391202541
-  },
-  {
-   "crypto_id": 39548,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 468,
-   "symbol": "ESP",
-   "volume_usd": 9104546.73251709
-  },
-  {
-   "crypto_id": 7431,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 469,
-   "symbol": "AKT",
-   "volume_usd": 9048019.12633368
-  },
-  {
-   "crypto_id": 39633,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 470,
-   "symbol": "RDDT",
-   "volume_usd": 9033826.002212942
-  },
-  {
-   "crypto_id": 38892,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 471,
-   "symbol": "STABLE",
-   "volume_usd": 9031886.5606133
-  },
-  {
-   "crypto_id": 21296,
-   "exchanges": 8,
-   "markets": 8,
-   "rank": 472,
-   "symbol": "ETHW",
-   "volume_usd": 9028888.57703641
-  },
-  {
-   "crypto_id": 2776,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 473,
-   "symbol": "AVA",
-   "volume_usd": 8960937.13283094
-  },
-  {
-   "crypto_id": 24911,
-   "exchanges": 20,
-   "markets": 20,
-   "rank": 474,
-   "symbol": "TURBO",
-   "volume_usd": 8946203.253608352
-  },
-  {
-   "crypto_id": 28884,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 475,
-   "symbol": "CAPINFRA",
-   "volume_usd": 8944751.42469353
-  },
-  {
-   "crypto_id": 35747,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 476,
-   "symbol": "DOOD",
-   "volume_usd": 8938973.113328319
-  },
-  {
-   "crypto_id": 8425,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 477,
-   "symbol": "JASMY",
-   "volume_usd": 8915753.59288613
-  },
-  {
-   "crypto_id": 42378,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 478,
-   "symbol": "BWET",
-   "volume_usd": 8894839.29383556
+   "volume_usd": 9754620.43891064
   },
   {
    "crypto_id": 36281,
    "exchanges": 14,
    "markets": 14,
-   "rank": 479,
+   "rank": 468,
    "symbol": "HYPER",
-   "volume_usd": 8889005.465018438
-  },
-  {
-   "crypto_id": 6758,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 480,
-   "symbol": "SUSHI",
-   "volume_usd": 8861497.559116948
-  },
-  {
-   "crypto_id": 38178,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 481,
-   "symbol": "TRUTH",
-   "volume_usd": 8848240.39113298
-  },
-  {
-   "crypto_id": 36462,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 482,
-   "symbol": "A",
-   "volume_usd": 8787630.254507791
-  },
-  {
-   "crypto_id": 40014,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 483,
-   "symbol": "V",
-   "volume_usd": 8730956.613523528
-  },
-  {
-   "crypto_id": 40829,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 484,
-   "symbol": "FWDI",
-   "volume_usd": 8705576.217395192
-  },
-  {
-   "crypto_id": 2566,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 485,
-   "symbol": "ONT",
-   "volume_usd": 8645777.99612826
-  },
-  {
-   "crypto_id": 18679,
-   "exchanges": 5,
-   "markets": 5,
-   "rank": 486,
-   "symbol": "XCN",
-   "volume_usd": 8637856.99800665
-  },
-  {
-   "crypto_id": 27872,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 487,
-   "symbol": "TRUMP",
-   "volume_usd": 8606086.64185448
-  },
-  {
-   "crypto_id": 39929,
-   "exchanges": 3,
-   "markets": 3,
-   "rank": 488,
-   "symbol": "1810",
-   "volume_usd": 8472193.51071476
-  },
-  {
-   "crypto_id": 30140,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 489,
-   "symbol": "NES",
-   "volume_usd": 8468769.758283319
-  },
-  {
-   "crypto_id": 40115,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 490,
-   "symbol": "ADBE",
-   "volume_usd": 8465897.675781308
-  },
-  {
-   "crypto_id": 39671,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 491,
-   "symbol": "\u9f99\u867e",
-   "volume_usd": 8425864.454152409
-  },
-  {
-   "crypto_id": 38231,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 492,
-   "symbol": "MMT",
-   "volume_usd": 8378142.06622475
-  },
-  {
-   "crypto_id": 39949,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 493,
-   "symbol": "EWZ",
-   "volume_usd": 8315907.7516165795
-  },
-  {
-   "crypto_id": 3602,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 494,
-   "symbol": "BSV",
-   "volume_usd": 8289113.8590488285
-  },
-  {
-   "crypto_id": 40199,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 495,
-   "symbol": "PANW",
-   "volume_usd": 8267011.528765971
-  },
-  {
-   "crypto_id": 36296,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 496,
-   "symbol": "BANK",
-   "volume_usd": 8247918.1811749
-  },
-  {
-   "crypto_id": 19269,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 497,
-   "symbol": "COW",
-   "volume_usd": 8205191.615458261
-  },
-  {
-   "crypto_id": 40112,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 498,
-   "symbol": "HPE",
-   "volume_usd": 8198745.84477167
-  },
-  {
-   "crypto_id": 39725,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 499,
-   "symbol": "PAYP",
-   "volume_usd": 8172418.57017426
-  },
-  {
-   "crypto_id": 30083,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 500,
-   "symbol": "ATH",
-   "volume_usd": 8157459.189508731
-  },
-  {
-   "crypto_id": 40843,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 501,
-   "symbol": "SNOW",
-   "volume_usd": 8147572.3011263395
-  },
-  {
-   "crypto_id": 2011,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 502,
-   "symbol": "XTZ",
-   "volume_usd": 8140609.862976088
-  },
-  {
-   "crypto_id": 40872,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 503,
-   "symbol": "AEON",
-   "volume_usd": 8120861.198683688
-  },
-  {
-   "crypto_id": 42335,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 504,
-   "symbol": "USDBRL",
-   "volume_usd": 8102663.80610561
+   "volume_usd": 9721597.61896455
   },
   {
    "crypto_id": 6892,
    "exchanges": 14,
    "markets": 14,
-   "rank": 505,
+   "rank": 469,
    "symbol": "EGLD",
-   "volume_usd": 8091914.097811601
+   "volume_usd": 9665478.821183331
   },
   {
-   "crypto_id": 12147,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 506,
-   "symbol": "SYN",
-   "volume_usd": 8090655.162719269
-  },
-  {
-   "crypto_id": 3635,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 507,
-   "symbol": "CRO",
-   "volume_usd": 8078846.656616089
-  },
-  {
-   "crypto_id": 39996,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 508,
-   "symbol": "HD",
-   "volume_usd": 8039857.45654943
-  },
-  {
-   "crypto_id": 41780,
+   "crypto_id": 35747,
    "exchanges": 15,
    "markets": 15,
-   "rank": 509,
-   "symbol": "LGELECTRONICS",
-   "volume_usd": 8018796.5372976605
+   "rank": 470,
+   "symbol": "DOOD",
+   "volume_usd": 9605672.064666562
+  },
+  {
+   "crypto_id": 2566,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 471,
+   "symbol": "ONT",
+   "volume_usd": 9593119.78207881
+  },
+  {
+   "crypto_id": 39672,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 472,
+   "symbol": "HANMI",
+   "volume_usd": 9543158.947886588
+  },
+  {
+   "crypto_id": 41869,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 473,
+   "symbol": "GDX",
+   "volume_usd": 9525381.02869841
+  },
+  {
+   "crypto_id": 37593,
+   "exchanges": 20,
+   "markets": 20,
+   "rank": 474,
+   "symbol": "PROVE",
+   "volume_usd": 9502511.418093232
+  },
+  {
+   "crypto_id": 37562,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 475,
+   "symbol": "AIO",
+   "volume_usd": 9452036.664671961
+  },
+  {
+   "crypto_id": 27872,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 476,
+   "symbol": "TRUMP",
+   "volume_usd": 9398699.13915652
+  },
+  {
+   "crypto_id": 21296,
+   "exchanges": 8,
+   "markets": 8,
+   "rank": 477,
+   "symbol": "ETHW",
+   "volume_usd": 9346272.354982829
+  },
+  {
+   "crypto_id": 36492,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 478,
+   "symbol": "ACU",
+   "volume_usd": 9276731.61997086
+  },
+  {
+   "crypto_id": 39631,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 479,
+   "symbol": "CSCO",
+   "volume_usd": 9176027.26013152
+  },
+  {
+   "crypto_id": 39548,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 480,
+   "symbol": "ESP",
+   "volume_usd": 9150917.452644492
+  },
+  {
+   "crypto_id": 19269,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 481,
+   "symbol": "COW",
+   "volume_usd": 9146776.662258029
+  },
+  {
+   "crypto_id": 30140,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 482,
+   "symbol": "NES",
+   "volume_usd": 9079843.852047341
+  },
+  {
+   "crypto_id": 10634,
+   "exchanges": 3,
+   "markets": 3,
+   "rank": 483,
+   "symbol": "BTCDOM",
+   "volume_usd": 9061685.39767665
+  },
+  {
+   "crypto_id": 42377,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 484,
+   "symbol": "CRML",
+   "volume_usd": 9023818.71518325
+  },
+  {
+   "crypto_id": 2011,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 485,
+   "symbol": "XTZ",
+   "volume_usd": 9001861.32680092
+  },
+  {
+   "crypto_id": 33979,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 486,
+   "symbol": "USUAL",
+   "volume_usd": 8989011.10934559
+  },
+  {
+   "crypto_id": 39961,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 487,
+   "symbol": "TENCENT",
+   "volume_usd": 8956240.334955739
   },
   {
    "crypto_id": 12999,
    "exchanges": 13,
    "markets": 13,
-   "rank": 510,
+   "rank": 488,
    "symbol": "SSV",
-   "volume_usd": 8013743.850084051
+   "volume_usd": 8918435.346473042
   },
   {
-   "crypto_id": 40083,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 511,
-   "symbol": "TSMX",
-   "volume_usd": 7959912.99569826
-  },
-  {
-   "crypto_id": 35053,
+   "crypto_id": 36462,
    "exchanges": 17,
    "markets": 17,
-   "rank": 512,
-   "symbol": "PIPPIN",
-   "volume_usd": 7886364.173577331
+   "rank": 489,
+   "symbol": "A",
+   "volume_usd": 8900624.00776445
   },
   {
-   "crypto_id": 40681,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 513,
-   "symbol": "FLEX",
-   "volume_usd": 7881717.560598699
-  },
-  {
-   "crypto_id": 41074,
+   "crypto_id": 36296,
    "exchanges": 14,
    "markets": 14,
-   "rank": 514,
-   "symbol": "MEITUAN",
-   "volume_usd": 7832369.072583069
+   "rank": 490,
+   "symbol": "BANK",
+   "volume_usd": 8844522.91193714
   },
   {
-   "crypto_id": 40911,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 515,
-   "symbol": "TMF",
-   "volume_usd": 7760798.151353841
-  },
-  {
-   "crypto_id": 42406,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 516,
-   "symbol": "MCD",
-   "volume_usd": 7662677.57192816
-  },
-  {
-   "crypto_id": 39997,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 517,
-   "symbol": "UBER",
-   "volume_usd": 7599252.33230985
-  },
-  {
-   "crypto_id": 28932,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 518,
-   "symbol": "DYM",
-   "volume_usd": 7594218.79415601
-  },
-  {
-   "crypto_id": 35697,
-   "exchanges": 9,
-   "markets": 9,
-   "rank": 519,
-   "symbol": "PI",
-   "volume_usd": 7578932.5256342
-  },
-  {
-   "crypto_id": 41972,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 520,
-   "symbol": "MDB",
-   "volume_usd": 7551648.037138809
-  },
-  {
-   "crypto_id": 38864,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 521,
-   "symbol": "FOLKS",
-   "volume_usd": 7551169.344006049
-  },
-  {
-   "crypto_id": 40694,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 522,
-   "symbol": "SPY",
-   "volume_usd": 7545244.33573719
-  },
-  {
-   "crypto_id": 39159,
-   "exchanges": 19,
-   "markets": 19,
-   "rank": 523,
-   "symbol": "BREV",
-   "volume_usd": 7472006.6215924
-  },
-  {
-   "crypto_id": 18069,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 524,
-   "symbol": "GMT",
-   "volume_usd": 7458644.090112139
-  },
-  {
-   "crypto_id": 32880,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 525,
-   "symbol": "KAIA",
-   "volume_usd": 7451279.320167331
-  },
-  {
-   "crypto_id": 29073,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 526,
-   "symbol": "ALT",
-   "volume_usd": 7439290.923829279
-  },
-  {
-   "crypto_id": 34958,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 527,
-   "symbol": "TAG",
-   "volume_usd": 7361214.046037781
-  },
-  {
-   "crypto_id": 5999,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 528,
-   "symbol": "XT",
-   "volume_usd": 7357506.26503458
-  },
-  {
-   "crypto_id": 41997,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 529,
-   "symbol": "BYD",
-   "volume_usd": 7276269.429532479
-  },
-  {
-   "crypto_id": 32195,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 530,
-   "symbol": "HMSTR",
-   "volume_usd": 7250091.41969789
-  },
-  {
-   "crypto_id": 39595,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 531,
-   "symbol": "ROBO",
-   "volume_usd": 7218965.901654251
-  },
-  {
-   "crypto_id": 32521,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 532,
-   "symbol": "NEIRO",
-   "volume_usd": 7184947.15642583
-  },
-  {
-   "crypto_id": 38513,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 533,
-   "symbol": "EDEN",
-   "volume_usd": 7176596.181914471
-  },
-  {
-   "crypto_id": 40013,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 534,
-   "symbol": "JPM",
-   "volume_usd": 7142272.32767758
-  },
-  {
-   "crypto_id": 35892,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 535,
-   "symbol": "TUT",
-   "volume_usd": 7123996.799839381
-  },
-  {
-   "crypto_id": 42356,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 536,
-   "symbol": "MOONSHOT",
-   "volume_usd": 7117360.1469585495
-  },
-  {
-   "crypto_id": 40984,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 537,
-   "symbol": "LYTE",
-   "volume_usd": 7095065.7337527815
-  },
-  {
-   "crypto_id": 34118,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 538,
-   "symbol": "BANANAS31",
-   "volume_usd": 7049845.584062579
-  },
-  {
-   "crypto_id": 34993,
-   "exchanges": 8,
-   "markets": 8,
-   "rank": 539,
-   "symbol": "SWARMS",
-   "volume_usd": 6987199.565254111
-  },
-  {
-   "crypto_id": 27657,
-   "exchanges": 18,
-   "markets": 18,
-   "rank": 540,
-   "symbol": "LINEA",
-   "volume_usd": 6983032.572476879
-  },
-  {
-   "crypto_id": 39377,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 541,
-   "symbol": "SKR",
-   "volume_usd": 6971396.998273389
-  },
-  {
-   "crypto_id": 38086,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 542,
-   "symbol": "MSFTON",
-   "volume_usd": 6970370.14923431
-  },
-  {
-   "crypto_id": 37743,
-   "exchanges": 10,
-   "markets": 10,
-   "rank": 543,
-   "symbol": "STAR",
-   "volume_usd": 6959354.50934265
-  },
-  {
-   "crypto_id": 39382,
+   "crypto_id": 39949,
    "exchanges": 16,
    "markets": 16,
-   "rank": 544,
-   "symbol": "TRIA",
-   "volume_usd": 6933904.89936398
+   "rank": 491,
+   "symbol": "EWZ",
+   "volume_usd": 8841657.114064107
   },
   {
-   "crypto_id": 2577,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 545,
-   "symbol": "RVN",
-   "volume_usd": 6869135.51190872
-  },
-  {
-   "crypto_id": 4006,
+   "crypto_id": 39671,
    "exchanges": 13,
    "markets": 13,
-   "rank": 546,
-   "symbol": "AWE",
-   "volume_usd": 6854310.46363244
+   "rank": 492,
+   "symbol": "\u9f99\u867e",
+   "volume_usd": 8832026.19536741
   },
   {
-   "crypto_id": 42371,
+   "crypto_id": 37338,
    "exchanges": 14,
    "markets": 14,
-   "rank": 547,
-   "symbol": "TWST",
-   "volume_usd": 6848639.02891618
-  },
-  {
-   "crypto_id": 34103,
-   "exchanges": 21,
-   "markets": 21,
-   "rank": 548,
-   "symbol": "AIXBT",
-   "volume_usd": 6824946.88769605
-  },
-  {
-   "crypto_id": 42595,
-   "exchanges": 6,
-   "markets": 6,
-   "rank": 549,
-   "symbol": "JIO",
-   "volume_usd": 6803646.01843984
-  },
-  {
-   "crypto_id": 268,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 550,
-   "symbol": "XWC",
-   "volume_usd": 6798557.86696624
-  },
-  {
-   "crypto_id": 38506,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 551,
-   "symbol": "LIGHT",
-   "volume_usd": 6778869.145754581
-  },
-  {
-   "crypto_id": 41974,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 552,
-   "symbol": "GTLB",
-   "volume_usd": 6767007.462776231
+   "rank": 493,
+   "symbol": "TAC",
+   "volume_usd": 8817246.895511359
   },
   {
    "crypto_id": 21846,
    "exchanges": 13,
    "markets": 13,
-   "rank": 553,
+   "rank": 494,
    "symbol": "ID",
-   "volume_usd": 6708893.568298991
+   "volume_usd": 8813247.020311171
   },
   {
-   "crypto_id": 41998,
-   "exchanges": 8,
-   "markets": 8,
-   "rank": 554,
-   "symbol": "HK0992",
-   "volume_usd": 6649264.317092739
+   "crypto_id": 40115,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 495,
+   "symbol": "ADBE",
+   "volume_usd": 8787583.26711881
   },
   {
-   "crypto_id": 40682,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 555,
-   "symbol": "TXN",
-   "volume_usd": 6641157.007817909
+   "crypto_id": 39929,
+   "exchanges": 3,
+   "markets": 3,
+   "rank": 496,
+   "symbol": "1810",
+   "volume_usd": 8728883.04365159
   },
   {
-   "crypto_id": 40576,
+   "crypto_id": 32521,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 497,
+   "symbol": "NEIRO",
+   "volume_usd": 8688661.195750358
+  },
+  {
+   "crypto_id": 40872,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 498,
+   "symbol": "AEON",
+   "volume_usd": 8646942.00446467
+  },
+  {
+   "crypto_id": 5999,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 499,
+   "symbol": "XT",
+   "volume_usd": 8602718.65537649
+  },
+  {
+   "crypto_id": 40089,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 500,
+   "symbol": "VRT",
+   "volume_usd": 8537693.877864009
+  },
+  {
+   "crypto_id": 37743,
    "exchanges": 10,
    "markets": 10,
-   "rank": 556,
-   "symbol": "TSEM",
-   "volume_usd": 6570907.03423122
+   "rank": 501,
+   "symbol": "STAR",
+   "volume_usd": 8512147.331869079
   },
   {
-   "crypto_id": 28301,
+   "crypto_id": 32698,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 502,
+   "symbol": "DOGS",
+   "volume_usd": 8506810.67851399
+  },
+  {
+   "crypto_id": 39516,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 503,
+   "symbol": "URNM",
+   "volume_usd": 8406515.913965471
+  },
+  {
+   "crypto_id": 40112,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 504,
+   "symbol": "HPE",
+   "volume_usd": 8342223.028652019
+  },
+  {
+   "crypto_id": 30083,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 505,
+   "symbol": "ATH",
+   "volume_usd": 8288253.5046501
+  },
+  {
+   "crypto_id": 29073,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 506,
+   "symbol": "ALT",
+   "volume_usd": 8286535.518928799
+  },
+  {
+   "crypto_id": 40911,
    "exchanges": 17,
    "markets": 17,
-   "rank": 557,
-   "symbol": "MEME",
-   "volume_usd": 6543489.954877481
+   "rank": 507,
+   "symbol": "TMF",
+   "volume_usd": 8225360.78817085
   },
   {
-   "crypto_id": 2634,
-   "exchanges": 4,
-   "markets": 4,
-   "rank": 558,
-   "symbol": "XDC",
-   "volume_usd": 6541030.6187290605
+   "crypto_id": 3635,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 508,
+   "symbol": "CRO",
+   "volume_usd": 8167895.48471397
+  },
+  {
+   "crypto_id": 35892,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 509,
+   "symbol": "TUT",
+   "volume_usd": 8123573.24354762
+  },
+  {
+   "crypto_id": 42335,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 510,
+   "symbol": "USDBRL",
+   "volume_usd": 8122469.11121528
+  },
+  {
+   "crypto_id": 3602,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 511,
+   "symbol": "BSV",
+   "volume_usd": 8119867.1806939505
+  },
+  {
+   "crypto_id": 39633,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 512,
+   "symbol": "RDDT",
+   "volume_usd": 8104997.677130451
+  },
+  {
+   "crypto_id": 41780,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 513,
+   "symbol": "LGELECTRONICS",
+   "volume_usd": 8065138.749459719
+  },
+  {
+   "crypto_id": 32880,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 514,
+   "symbol": "KAIA",
+   "volume_usd": 8034279.453570459
+  },
+  {
+   "crypto_id": 34993,
+   "exchanges": 8,
+   "markets": 8,
+   "rank": 515,
+   "symbol": "SWARMS",
+   "volume_usd": 8032257.4571417
+  },
+  {
+   "crypto_id": 39377,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 516,
+   "symbol": "SKR",
+   "volume_usd": 8032156.74013108
+  },
+  {
+   "crypto_id": 39159,
+   "exchanges": 19,
+   "markets": 19,
+   "rank": 517,
+   "symbol": "BREV",
+   "volume_usd": 7816145.286272848
+  },
+  {
+   "crypto_id": 38864,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 518,
+   "symbol": "FOLKS",
+   "volume_usd": 7812116.224758121
+  },
+  {
+   "crypto_id": 39595,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 519,
+   "symbol": "ROBO",
+   "volume_usd": 7800956.60077541
+  },
+  {
+   "crypto_id": 28932,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 520,
+   "symbol": "DYM",
+   "volume_usd": 7746027.70864275
+  },
+  {
+   "crypto_id": 34103,
+   "exchanges": 21,
+   "markets": 21,
+   "rank": 521,
+   "symbol": "AIXBT",
+   "volume_usd": 7745790.81750008
+  },
+  {
+   "crypto_id": 39725,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 522,
+   "symbol": "PAYP",
+   "volume_usd": 7721598.8712480385
+  },
+  {
+   "crypto_id": 40199,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 523,
+   "symbol": "PANW",
+   "volume_usd": 7713863.227985569
+  },
+  {
+   "crypto_id": 12147,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 524,
+   "symbol": "SYN",
+   "volume_usd": 7634580.044283129
+  },
+  {
+   "crypto_id": 27657,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 525,
+   "symbol": "LINEA",
+   "volume_usd": 7602377.084918451
+  },
+  {
+   "crypto_id": 18679,
+   "exchanges": 5,
+   "markets": 5,
+   "rank": 526,
+   "symbol": "XCN",
+   "volume_usd": 7570009.95578992
+  },
+  {
+   "crypto_id": 40083,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 527,
+   "symbol": "TSMX",
+   "volume_usd": 7553109.76549553
   },
   {
    "crypto_id": 11857,
    "exchanges": 14,
    "markets": 14,
-   "rank": 559,
+   "rank": 528,
    "symbol": "GMX",
-   "volume_usd": 6524108.3322914895
+   "volume_usd": 7491700.77420609
   },
   {
-   "crypto_id": 38757,
+   "crypto_id": 40014,
    "exchanges": 14,
    "markets": 14,
-   "rank": 560,
-   "symbol": "AT",
-   "volume_usd": 6464436.512865779
+   "rank": 529,
+   "symbol": "V",
+   "volume_usd": 7488532.105533788
   },
   {
-   "crypto_id": 3217,
+   "crypto_id": 4006,
    "exchanges": 13,
    "markets": 13,
-   "rank": 561,
-   "symbol": "ONG",
-   "volume_usd": 6459441.71019959
+   "rank": 530,
+   "symbol": "AWE",
+   "volume_usd": 7483141.67861335
   },
   {
-   "crypto_id": 4948,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 562,
-   "symbol": "CKB",
-   "volume_usd": 6357738.298118719
+   "crypto_id": 2634,
+   "exchanges": 4,
+   "markets": 4,
+   "rank": 531,
+   "symbol": "XDC",
+   "volume_usd": 7461217.42442864
+  },
+  {
+   "crypto_id": 41074,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 532,
+   "symbol": "MEITUAN",
+   "volume_usd": 7406404.84788587
+  },
+  {
+   "crypto_id": 2577,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 533,
+   "symbol": "RVN",
+   "volume_usd": 7373271.966597349
+  },
+  {
+   "crypto_id": 39382,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 534,
+   "symbol": "TRIA",
+   "volume_usd": 7356707.15035006
   },
   {
    "crypto_id": 21707,
    "exchanges": 12,
    "markets": 12,
-   "rank": 563,
+   "rank": 535,
    "symbol": "RED",
-   "volume_usd": 6331063.97429126
-  },
-  {
-   "crypto_id": 33881,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 564,
-   "symbol": "BAN",
-   "volume_usd": 6302807.54748478
-  },
-  {
-   "crypto_id": 8290,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 565,
-   "symbol": "SUPER",
-   "volume_usd": 6299679.453726161
-  },
-  {
-   "crypto_id": 39953,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 566,
-   "symbol": "EBAY",
-   "volume_usd": 6229320.112501939
-  },
-  {
-   "crypto_id": 42620,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 567,
-   "symbol": "IBKR",
-   "volume_usd": 6219727.980594839
-  },
-  {
-   "crypto_id": 33093,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 568,
-   "symbol": "MOODENG",
-   "volume_usd": 6213870.88916125
-  },
-  {
-   "crypto_id": 40677,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 569,
-   "symbol": "BSP",
-   "volume_usd": 6154213.992718871
-  },
-  {
-   "crypto_id": 35647,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 570,
-   "symbol": "TST",
-   "volume_usd": 6147441.56022749
-  },
-  {
-   "crypto_id": 41870,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 571,
-   "symbol": "VST",
-   "volume_usd": 6089056.77113914
+   "volume_usd": 7298217.790667291
   },
   {
    "crypto_id": 3992,
    "exchanges": 13,
    "markets": 13,
-   "rank": 572,
+   "rank": 536,
    "symbol": "COTI",
-   "volume_usd": 6075343.559229011
+   "volume_usd": 7252582.86335716
   },
   {
-   "crypto_id": 36180,
+   "crypto_id": 18069,
    "exchanges": 15,
    "markets": 15,
-   "rank": 573,
-   "symbol": "KERNEL",
-   "volume_usd": 6062357.222277349
-  },
-  {
-   "crypto_id": 40584,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 574,
-   "symbol": "BOT",
-   "volume_usd": 6046845.55851677
-  },
-  {
-   "crypto_id": 42651,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 575,
-   "symbol": "AMGN",
-   "volume_usd": 5997565.18057223
-  },
-  {
-   "crypto_id": 3637,
-   "exchanges": 1,
-   "markets": 1,
-   "rank": 576,
-   "symbol": "AERGO",
-   "volume_usd": 5991169.39796893
-  },
-  {
-   "crypto_id": 35491,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 577,
-   "symbol": "M",
-   "volume_usd": 5947251.106031751
-  },
-  {
-   "crypto_id": 1455,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 578,
-   "symbol": "GLM",
-   "volume_usd": 5929330.60125763
-  },
-  {
-   "crypto_id": 34297,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 579,
-   "symbol": "F",
-   "volume_usd": 5854523.278225881
-  },
-  {
-   "crypto_id": 42650,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 580,
-   "symbol": "ABBV",
-   "volume_usd": 5833860.810338539
-  },
-  {
-   "crypto_id": 16193,
-   "exchanges": 4,
-   "markets": 4,
-   "rank": 581,
-   "symbol": "PI",
-   "volume_usd": 5803634.86497362
-  },
-  {
-   "crypto_id": 7737,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 582,
-   "symbol": "API3",
-   "volume_usd": 5791073.657367259
-  },
-  {
-   "crypto_id": 39493,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 583,
-   "symbol": "IWM",
-   "volume_usd": 5788018.05906005
-  },
-  {
-   "crypto_id": 39954,
-   "exchanges": 16,
-   "markets": 16,
-   "rank": 584,
-   "symbol": "ZM",
-   "volume_usd": 5776014.355016742
-  },
-  {
-   "crypto_id": 36410,
-   "exchanges": 15,
-   "markets": 15,
-   "rank": 585,
-   "symbol": "MYX",
-   "volume_usd": 5761759.492999111
+   "rank": 537,
+   "symbol": "GMT",
+   "volume_usd": 7248364.06759449
   },
   {
    "crypto_id": 42678,
    "exchanges": 13,
    "markets": 13,
-   "rank": 586,
+   "rank": 538,
    "symbol": "STM",
-   "volume_usd": 5703124.6301739905
+   "volume_usd": 7230561.290820139
   },
   {
-   "crypto_id": 23635,
+   "crypto_id": 38892,
+   "exchanges": 18,
+   "markets": 18,
+   "rank": 539,
+   "symbol": "STABLE",
+   "volume_usd": 7219989.80576438
+  },
+  {
+   "crypto_id": 38506,
    "exchanges": 12,
    "markets": 12,
-   "rank": 587,
-   "symbol": "FORM",
-   "volume_usd": 5689608.321117189
+   "rank": 540,
+   "symbol": "LIGHT",
+   "volume_usd": 7217549.28411038
   },
   {
-   "crypto_id": 31838,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 588,
-   "symbol": "COOKIE",
-   "volume_usd": 5638173.495682701
+   "crypto_id": 35697,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 541,
+   "symbol": "PI",
+   "volume_usd": 7185324.84496765
   },
   {
-   "crypto_id": 39611,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 589,
-   "symbol": "MANTRA",
-   "volume_usd": 5624936.45316314
-  },
-  {
-   "crypto_id": 8719,
-   "exchanges": 12,
-   "markets": 12,
-   "rank": 590,
-   "symbol": "ILV",
-   "volume_usd": 5615264.61648702
-  },
-  {
-   "crypto_id": 40894,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 591,
-   "symbol": "XIAOMI",
-   "volume_usd": 5566693.088606539
-  },
-  {
-   "crypto_id": 41971,
-   "exchanges": 13,
-   "markets": 13,
-   "rank": 592,
-   "symbol": "TEAM",
-   "volume_usd": 5565863.277442159
-  },
-  {
-   "crypto_id": 32120,
-   "exchanges": 11,
-   "markets": 11,
-   "rank": 593,
-   "symbol": "G",
-   "volume_usd": 5565215.19904131
-  },
-  {
-   "crypto_id": 40230,
-   "exchanges": 2,
-   "markets": 2,
-   "rank": 594,
-   "symbol": "STX",
-   "volume_usd": 5554864.4290824495
-  },
-  {
-   "crypto_id": 14280,
-   "exchanges": 14,
-   "markets": 14,
-   "rank": 595,
-   "symbol": "EUL",
-   "volume_usd": 5511934.555820011
-  },
-  {
-   "crypto_id": 39035,
-   "exchanges": 17,
-   "markets": 17,
-   "rank": 596,
-   "symbol": "ZKP",
-   "volume_usd": 5499777.598263641
-  },
-  {
-   "crypto_id": 23335,
+   "crypto_id": 40843,
    "exchanges": 15,
    "markets": 15,
-   "rank": 597,
-   "symbol": "THE",
-   "volume_usd": 5468779.79108022
+   "rank": 542,
+   "symbol": "SNOW",
+   "volume_usd": 7181890.722416781
   },
   {
-   "crypto_id": 38065,
+   "crypto_id": 38086,
    "exchanges": 2,
    "markets": 2,
-   "rank": 598,
-   "symbol": "METAON",
-   "volume_usd": 5463447.25746281
+   "rank": 543,
+   "symbol": "MSFTON",
+   "volume_usd": 7154732.1828526
+  },
+  {
+   "crypto_id": 40984,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 544,
+   "symbol": "LYTE",
+   "volume_usd": 7152871.98817194
+  },
+  {
+   "crypto_id": 42356,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 545,
+   "symbol": "MOONSHOT",
+   "volume_usd": 7150349.43827602
+  },
+  {
+   "crypto_id": 33093,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 546,
+   "symbol": "MOODENG",
+   "volume_usd": 7068209.3259134805
+  },
+  {
+   "crypto_id": 39997,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 547,
+   "symbol": "UBER",
+   "volume_usd": 6997630.9951451095
+  },
+  {
+   "crypto_id": 41972,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 548,
+   "symbol": "MDB",
+   "volume_usd": 6986551.130473249
+  },
+  {
+   "crypto_id": 42406,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 549,
+   "symbol": "MCD",
+   "volume_usd": 6984680.9378931
+  },
+  {
+   "crypto_id": 38757,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 550,
+   "symbol": "AT",
+   "volume_usd": 6972127.43688184
+  },
+  {
+   "crypto_id": 3217,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 551,
+   "symbol": "ONG",
+   "volume_usd": 6965088.629672259
+  },
+  {
+   "crypto_id": 41997,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 552,
+   "symbol": "BYD",
+   "volume_usd": 6939765.047822179
+  },
+  {
+   "crypto_id": 39996,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 553,
+   "symbol": "HD",
+   "volume_usd": 6934572.032422991
+  },
+  {
+   "crypto_id": 40829,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 554,
+   "symbol": "FWDI",
+   "volume_usd": 6893337.41374446
+  },
+  {
+   "crypto_id": 1720,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 555,
+   "symbol": "IOTA",
+   "volume_usd": 6845245.138437221
+  },
+  {
+   "crypto_id": 42595,
+   "exchanges": 6,
+   "markets": 6,
+   "rank": 556,
+   "symbol": "JIO",
+   "volume_usd": 6784465.90795092
   },
   {
    "crypto_id": 9543,
    "exchanges": 14,
    "markets": 14,
-   "rank": 599,
+   "rank": 557,
    "symbol": "BICO",
-   "volume_usd": 5422278.960691172
+   "volume_usd": 6768009.91565112
   },
   {
-   "crypto_id": 42407,
+   "crypto_id": 42620,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 558,
+   "symbol": "IBKR",
+   "volume_usd": 6703058.081439181
+  },
+  {
+   "crypto_id": 38513,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 559,
+   "symbol": "EDEN",
+   "volume_usd": 6684615.92591404
+  },
+  {
+   "crypto_id": 28301,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 560,
+   "symbol": "MEME",
+   "volume_usd": 6673666.084906109
+  },
+  {
+   "crypto_id": 268,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 561,
+   "symbol": "XWC",
+   "volume_usd": 6666941.36064851
+  },
+  {
+   "crypto_id": 28884,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 562,
+   "symbol": "CAPINFRA",
+   "volume_usd": 6665794.02021188
+  },
+  {
+   "crypto_id": 28324,
+   "exchanges": 6,
+   "markets": 6,
+   "rank": 563,
+   "symbol": "DYDX",
+   "volume_usd": 6642366.369182991
+  },
+  {
+   "crypto_id": 8719,
    "exchanges": 12,
    "markets": 12,
+   "rank": 564,
+   "symbol": "ILV",
+   "volume_usd": 6632823.760092109
+  },
+  {
+   "crypto_id": 40576,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 565,
+   "symbol": "TSEM",
+   "volume_usd": 6564800.353205181
+  },
+  {
+   "crypto_id": 35647,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 566,
+   "symbol": "TST",
+   "volume_usd": 6545343.01529219
+  },
+  {
+   "crypto_id": 41998,
+   "exchanges": 8,
+   "markets": 8,
+   "rank": 567,
+   "symbol": "HK0992",
+   "volume_usd": 6520827.709760461
+  },
+  {
+   "crypto_id": 40013,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 568,
+   "symbol": "JPM",
+   "volume_usd": 6506163.72560788
+  },
+  {
+   "crypto_id": 39035,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 569,
+   "symbol": "ZKP",
+   "volume_usd": 6475061.65527834
+  },
+  {
+   "crypto_id": 2586,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 570,
+   "symbol": "SNX",
+   "volume_usd": 6466641.85496027
+  },
+  {
+   "crypto_id": 42651,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 571,
+   "symbol": "AMGN",
+   "volume_usd": 6407572.9853261
+  },
+  {
+   "crypto_id": 23635,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 572,
+   "symbol": "FORM",
+   "volume_usd": 6398345.79730243
+  },
+  {
+   "crypto_id": 41974,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 573,
+   "symbol": "GTLB",
+   "volume_usd": 6351792.249951321
+  },
+  {
+   "crypto_id": 38083,
+   "exchanges": 2,
+   "markets": 2,
+   "rank": 574,
+   "symbol": "AMZNON",
+   "volume_usd": 6335857.37437783
+  },
+  {
+   "crypto_id": 36410,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 575,
+   "symbol": "MYX",
+   "volume_usd": 6322164.22202817
+  },
+  {
+   "crypto_id": 23335,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 576,
+   "symbol": "THE",
+   "volume_usd": 6290121.952312809
+  },
+  {
+   "crypto_id": 4948,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 577,
+   "symbol": "CKB",
+   "volume_usd": 6241679.816452201
+  },
+  {
+   "crypto_id": 40682,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 578,
+   "symbol": "TXN",
+   "volume_usd": 6206188.0314131
+  },
+  {
+   "crypto_id": 39954,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 579,
+   "symbol": "ZM",
+   "volume_usd": 6182665.1451996
+  },
+  {
+   "crypto_id": 40677,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 580,
+   "symbol": "BSP",
+   "volume_usd": 6173398.486829709
+  },
+  {
+   "crypto_id": 8290,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 581,
+   "symbol": "SUPER",
+   "volume_usd": 6168449.01104052
+  },
+  {
+   "crypto_id": 14280,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 582,
+   "symbol": "EUL",
+   "volume_usd": 6113179.268043851
+  },
+  {
+   "crypto_id": 42650,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 583,
+   "symbol": "ABBV",
+   "volume_usd": 6070654.5670778
+  },
+  {
+   "crypto_id": 37298,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 584,
+   "symbol": "VELVET",
+   "volume_usd": 6064863.872548929
+  },
+  {
+   "crypto_id": 36671,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 585,
+   "symbol": "SAHARA",
+   "volume_usd": 6037134.3704972705
+  },
+  {
+   "crypto_id": 7737,
+   "exchanges": 15,
+   "markets": 15,
+   "rank": 586,
+   "symbol": "API3",
+   "volume_usd": 6024141.333038931
+  },
+  {
+   "crypto_id": 4092,
+   "exchanges": 10,
+   "markets": 10,
+   "rank": 587,
+   "symbol": "DUSK",
+   "volume_usd": 6021759.61755786
+  },
+  {
+   "crypto_id": 34958,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 588,
+   "symbol": "TAG",
+   "volume_usd": 6018061.93592397
+  },
+  {
+   "crypto_id": 31838,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 589,
+   "symbol": "COOKIE",
+   "volume_usd": 6012291.54210328
+  },
+  {
+   "crypto_id": 3637,
+   "exchanges": 1,
+   "markets": 1,
+   "rank": 590,
+   "symbol": "AERGO",
+   "volume_usd": 5991702.2818581
+  },
+  {
+   "crypto_id": 5567,
+   "exchanges": 13,
+   "markets": 13,
+   "rank": 591,
+   "symbol": "CELO",
+   "volume_usd": 5988847.32992815
+  },
+  {
+   "crypto_id": 40943,
+   "exchanges": 9,
+   "markets": 9,
+   "rank": 592,
+   "symbol": "OKTA",
+   "volume_usd": 5978571.52635898
+  },
+  {
+   "crypto_id": 40584,
+   "exchanges": 16,
+   "markets": 16,
+   "rank": 593,
+   "symbol": "BOT",
+   "volume_usd": 5971658.1648991015
+  },
+  {
+   "crypto_id": 5691,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 594,
+   "symbol": "SKL",
+   "volume_usd": 5946615.943571069
+  },
+  {
+   "crypto_id": 39611,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 595,
+   "symbol": "MANTRA",
+   "volume_usd": 5945328.913601511
+  },
+  {
+   "crypto_id": 30746,
+   "exchanges": 11,
+   "markets": 11,
+   "rank": 596,
+   "symbol": "BB",
+   "volume_usd": 5919351.09811404
+  },
+  {
+   "crypto_id": 1455,
+   "exchanges": 14,
+   "markets": 14,
+   "rank": 597,
+   "symbol": "GLM",
+   "volume_usd": 5880963.01370525
+  },
+  {
+   "crypto_id": 41870,
+   "exchanges": 17,
+   "markets": 17,
+   "rank": 598,
+   "symbol": "VST",
+   "volume_usd": 5856679.680763809
+  },
+  {
+   "crypto_id": 42530,
+   "exchanges": 12,
+   "markets": 12,
+   "rank": 599,
+   "symbol": "ZCSH",
+   "volume_usd": 5825116.449782
+  },
+  {
+   "crypto_id": 35491,
+   "exchanges": 13,
+   "markets": 13,
    "rank": 600,
-   "symbol": "AKAM",
-   "volume_usd": 5398296.133607009
+   "symbol": "M",
+   "volume_usd": 5803953.005649299
   }
  ],
- "assets_received": 1120,
+ "assets_received": 1122,
  "coverage": {
   "categories": [
    "futures",
@@ -4811,23 +4811,23 @@
   "exchanges_failed": [],
   "exchanges_fetched": 40,
   "exchanges_listed": 60,
-  "fetched_volume_share_pct": 87.76,
-  "markets_counted": 12318,
-  "markets_seen": 16625,
+  "fetched_volume_share_pct": 87.36,
+  "markets_counted": 12326,
+  "markets_seen": 16259,
   "pairs_per_exchange_cap": 1000,
   "skipped": {
    "base is not a CMC-identified cryptocurrency": 153,
-   "exclusions present": 4008,
-   "outlier_detected": 26,
+   "exclusions present": 3633,
+   "outlier_detected": 27,
    "stablecoin / leveraged / empty symbol": 45
   }
  },
- "credits_used": 90,
+ "credits_used": 89,
  "endpoints": [
   "/v5/exchange/derivatives/list",
   "/v5/exchange/derivatives/market-pairs/list/latest"
  ],
- "generated_at": "2026-11-12T09:35:05.618845+00:00",
+ "generated_at": "2026-11-12T13:54:48.592059+00:00",
  "mexc_markets": {
   "0G_USDT": {
    "category": "perpetual",
